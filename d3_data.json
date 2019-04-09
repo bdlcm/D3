@@ -1,0 +1,822 @@
+{
+    "nodes": [
+        {
+            "auth_id": 75,
+            "lastname": "Siramshetty",
+            "forename": "Vishal B"
+        },
+        {
+            "auth_id": 80,
+            "lastname": "Chen",
+            "forename": "Qiaofeng"
+        },
+        {
+            "auth_id": 81,
+            "lastname": "Devarakonda",
+            "forename": "Prashanth"
+        },
+        {
+            "auth_id": 213,
+            "lastname": "Nickel",
+            "forename": "Janette"
+        },
+        {
+            "auth_id": 79,
+            "lastname": "Gohlke",
+            "forename": "Bjoern-Oliver"
+        },
+        {
+            "auth_id": 219,
+            "lastname": "Omieczynski",
+            "forename": "Christian"
+        },
+        {
+            "auth_id": 73,
+            "lastname": "Preissner",
+            "forename": "Robert"
+        },
+        {
+            "auth_id": 171,
+            "lastname": "Drwal",
+            "forename": "Malgorzata N"
+        },
+        {
+            "auth_id": 71,
+            "lastname": "Banerjee",
+            "forename": "Priyanka"
+        },
+        {
+            "auth_id": 74,
+            "lastname": "Preissner",
+            "forename": "Saskia"
+        },
+        {
+            "auth_id": 77,
+            "lastname": "Steinborn",
+            "forename": "Paul"
+        },
+        {
+            "auth_id": 78,
+            "lastname": "Luft",
+            "forename": "Friedrich C"
+        },
+        {
+            "auth_id": 84,
+            "lastname": "Gohlke",
+            "forename": "Björn-Oliver"
+        },
+        {
+            "auth_id": 146,
+            "lastname": "Goede",
+            "forename": "Andrean"
+        },
+        {
+            "auth_id": 145,
+            "lastname": "Eckert",
+            "forename": "Oliver Andreas"
+        }
+    ],
+    "links": [
+        {
+            "source": {
+                "auth_id": 75,
+                "lastname": "Siramshetty",
+                "forename": "Vishal B"
+            },
+            "val": 7,
+            "target": {
+                "auth_id": 73,
+                "lastname": "Preissner",
+                "forename": "Robert"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 80,
+                "lastname": "Chen",
+                "forename": "Qiaofeng"
+            },
+            "val": 2,
+            "target": {
+                "auth_id": 75,
+                "lastname": "Siramshetty",
+                "forename": "Vishal B"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 80,
+                "lastname": "Chen",
+                "forename": "Qiaofeng"
+            },
+            "val": 2,
+            "target": {
+                "auth_id": 73,
+                "lastname": "Preissner",
+                "forename": "Robert"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 81,
+                "lastname": "Devarakonda",
+                "forename": "Prashanth"
+            },
+            "val": 2,
+            "target": {
+                "auth_id": 75,
+                "lastname": "Siramshetty",
+                "forename": "Vishal B"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 81,
+                "lastname": "Devarakonda",
+                "forename": "Prashanth"
+            },
+            "val": 2,
+            "target": {
+                "auth_id": 73,
+                "lastname": "Preissner",
+                "forename": "Robert"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 81,
+                "lastname": "Devarakonda",
+                "forename": "Prashanth"
+            },
+            "val": 2,
+            "target": {
+                "auth_id": 80,
+                "lastname": "Chen",
+                "forename": "Qiaofeng"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 213,
+                "lastname": "Nickel",
+                "forename": "Janette"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 75,
+                "lastname": "Siramshetty",
+                "forename": "Vishal B"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 79,
+                "lastname": "Gohlke",
+                "forename": "Bjoern-Oliver"
+            },
+            "val": 2,
+            "target": {
+                "auth_id": 75,
+                "lastname": "Siramshetty",
+                "forename": "Vishal B"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 79,
+                "lastname": "Gohlke",
+                "forename": "Bjoern-Oliver"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 213,
+                "lastname": "Nickel",
+                "forename": "Janette"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 219,
+                "lastname": "Omieczynski",
+                "forename": "Christian"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 75,
+                "lastname": "Siramshetty",
+                "forename": "Vishal B"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 219,
+                "lastname": "Omieczynski",
+                "forename": "Christian"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 213,
+                "lastname": "Nickel",
+                "forename": "Janette"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 219,
+                "lastname": "Omieczynski",
+                "forename": "Christian"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 79,
+                "lastname": "Gohlke",
+                "forename": "Bjoern-Oliver"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 73,
+                "lastname": "Preissner",
+                "forename": "Robert"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 213,
+                "lastname": "Nickel",
+                "forename": "Janette"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 73,
+                "lastname": "Preissner",
+                "forename": "Robert"
+            },
+            "val": 2,
+            "target": {
+                "auth_id": 79,
+                "lastname": "Gohlke",
+                "forename": "Bjoern-Oliver"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 73,
+                "lastname": "Preissner",
+                "forename": "Robert"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 219,
+                "lastname": "Omieczynski",
+                "forename": "Christian"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 73,
+                "lastname": "Preissner",
+                "forename": "Robert"
+            },
+            "val": 2,
+            "target": {
+                "auth_id": 171,
+                "lastname": "Drwal",
+                "forename": "Malgorzata N"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 171,
+                "lastname": "Drwal",
+                "forename": "Malgorzata N"
+            },
+            "val": 2,
+            "target": {
+                "auth_id": 75,
+                "lastname": "Siramshetty",
+                "forename": "Vishal B"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 171,
+                "lastname": "Drwal",
+                "forename": "Malgorzata N"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 213,
+                "lastname": "Nickel",
+                "forename": "Janette"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 171,
+                "lastname": "Drwal",
+                "forename": "Malgorzata N"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 79,
+                "lastname": "Gohlke",
+                "forename": "Bjoern-Oliver"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 171,
+                "lastname": "Drwal",
+                "forename": "Malgorzata N"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 219,
+                "lastname": "Omieczynski",
+                "forename": "Christian"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 73,
+                "lastname": "Preissner",
+                "forename": "Robert"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 71,
+                "lastname": "Banerjee",
+                "forename": "Priyanka"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 71,
+                "lastname": "Banerjee",
+                "forename": "Priyanka"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 75,
+                "lastname": "Siramshetty",
+                "forename": "Vishal B"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 71,
+                "lastname": "Banerjee",
+                "forename": "Priyanka"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 171,
+                "lastname": "Drwal",
+                "forename": "Malgorzata N"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 74,
+                "lastname": "Preissner",
+                "forename": "Saskia"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 76,
+                "lastname": "Dunkel",
+                "forename": "Mathias"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 77,
+                "lastname": "Steinborn",
+                "forename": "Paul"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 76,
+                "lastname": "Dunkel",
+                "forename": "Mathias"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 77,
+                "lastname": "Steinborn",
+                "forename": "Paul"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 74,
+                "lastname": "Preissner",
+                "forename": "Saskia"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 78,
+                "lastname": "Luft",
+                "forename": "Friedrich C"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 76,
+                "lastname": "Dunkel",
+                "forename": "Mathias"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 78,
+                "lastname": "Luft",
+                "forename": "Friedrich C"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 74,
+                "lastname": "Preissner",
+                "forename": "Saskia"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 78,
+                "lastname": "Luft",
+                "forename": "Friedrich C"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 77,
+                "lastname": "Steinborn",
+                "forename": "Paul"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 73,
+                "lastname": "Preissner",
+                "forename": "Robert"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 76,
+                "lastname": "Dunkel",
+                "forename": "Mathias"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 73,
+                "lastname": "Preissner",
+                "forename": "Robert"
+            },
+            "val": 2,
+            "target": {
+                "auth_id": 74,
+                "lastname": "Preissner",
+                "forename": "Saskia"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 73,
+                "lastname": "Preissner",
+                "forename": "Robert"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 77,
+                "lastname": "Steinborn",
+                "forename": "Paul"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 73,
+                "lastname": "Preissner",
+                "forename": "Robert"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 78,
+                "lastname": "Luft",
+                "forename": "Friedrich C"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 75,
+                "lastname": "Siramshetty",
+                "forename": "Vishal B"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 76,
+                "lastname": "Dunkel",
+                "forename": "Mathias"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 75,
+                "lastname": "Siramshetty",
+                "forename": "Vishal B"
+            },
+            "val": 2,
+            "target": {
+                "auth_id": 74,
+                "lastname": "Preissner",
+                "forename": "Saskia"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 75,
+                "lastname": "Siramshetty",
+                "forename": "Vishal B"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 77,
+                "lastname": "Steinborn",
+                "forename": "Paul"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 75,
+                "lastname": "Siramshetty",
+                "forename": "Vishal B"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 78,
+                "lastname": "Luft",
+                "forename": "Friedrich C"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 73,
+                "lastname": "Preissner",
+                "forename": "Robert"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 84,
+                "lastname": "Gohlke",
+                "forename": "Björn-Oliver"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 84,
+                "lastname": "Gohlke",
+                "forename": "Björn-Oliver"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 74,
+                "lastname": "Preissner",
+                "forename": "Saskia"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 146,
+                "lastname": "Goede",
+                "forename": "Andrean"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 73,
+                "lastname": "Preissner",
+                "forename": "Robert"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 146,
+                "lastname": "Goede",
+                "forename": "Andrean"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 74,
+                "lastname": "Preissner",
+                "forename": "Saskia"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 146,
+                "lastname": "Goede",
+                "forename": "Andrean"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 84,
+                "lastname": "Gohlke",
+                "forename": "Björn-Oliver"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 145,
+                "lastname": "Eckert",
+                "forename": "Oliver Andreas"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 73,
+                "lastname": "Preissner",
+                "forename": "Robert"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 145,
+                "lastname": "Eckert",
+                "forename": "Oliver Andreas"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 74,
+                "lastname": "Preissner",
+                "forename": "Saskia"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 145,
+                "lastname": "Eckert",
+                "forename": "Oliver Andreas"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 84,
+                "lastname": "Gohlke",
+                "forename": "Björn-Oliver"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 145,
+                "lastname": "Eckert",
+                "forename": "Oliver Andreas"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 146,
+                "lastname": "Goede",
+                "forename": "Andrean"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 75,
+                "lastname": "Siramshetty",
+                "forename": "Vishal B"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 84,
+                "lastname": "Gohlke",
+                "forename": "Björn-Oliver"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 75,
+                "lastname": "Siramshetty",
+                "forename": "Vishal B"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 146,
+                "lastname": "Goede",
+                "forename": "Andrean"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 75,
+                "lastname": "Siramshetty",
+                "forename": "Vishal B"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 145,
+                "lastname": "Eckert",
+                "forename": "Oliver Andreas"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 80,
+                "lastname": "Chen",
+                "forename": "Qiaofeng"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 74,
+                "lastname": "Preissner",
+                "forename": "Saskia"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 80,
+                "lastname": "Chen",
+                "forename": "Qiaofeng"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 84,
+                "lastname": "Gohlke",
+                "forename": "Björn-Oliver"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 80,
+                "lastname": "Chen",
+                "forename": "Qiaofeng"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 146,
+                "lastname": "Goede",
+                "forename": "Andrean"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 80,
+                "lastname": "Chen",
+                "forename": "Qiaofeng"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 145,
+                "lastname": "Eckert",
+                "forename": "Oliver Andreas"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 81,
+                "lastname": "Devarakonda",
+                "forename": "Prashanth"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 74,
+                "lastname": "Preissner",
+                "forename": "Saskia"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 81,
+                "lastname": "Devarakonda",
+                "forename": "Prashanth"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 84,
+                "lastname": "Gohlke",
+                "forename": "Björn-Oliver"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 81,
+                "lastname": "Devarakonda",
+                "forename": "Prashanth"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 146,
+                "lastname": "Goede",
+                "forename": "Andrean"
+            }
+        },
+        {
+            "source": {
+                "auth_id": 81,
+                "lastname": "Devarakonda",
+                "forename": "Prashanth"
+            },
+            "val": 1,
+            "target": {
+                "auth_id": 145,
+                "lastname": "Eckert",
+                "forename": "Oliver Andreas"
+            }
+        }
+    ]
+}
