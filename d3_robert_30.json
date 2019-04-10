@@ -1,0 +1,526 @@
+{
+    "links": [
+        {
+            "source": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            },
+            "val": 28,
+            "target": {
+                "forename": "Mathias",
+                "lastname": "Dunkel",
+                "auth_id": 76
+            }
+        },
+        {
+            "source": {
+                "forename": "Andrean",
+                "lastname": "Goede",
+                "auth_id": 146
+            },
+            "val": 19,
+            "target": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            }
+        },
+        {
+            "source": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            },
+            "val": 16,
+            "target": {
+                "forename": "Saskia",
+                "lastname": "Preissner",
+                "auth_id": 74
+            }
+        },
+        {
+            "source": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            },
+            "val": 12,
+            "target": {
+                "forename": "Elke",
+                "lastname": "Michalsky",
+                "auth_id": 326
+            }
+        },
+        {
+            "source": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            },
+            "val": 11,
+            "target": {
+                "forename": "Cornelius",
+                "lastname": "Frömmel",
+                "auth_id": 378
+            }
+        },
+        {
+            "source": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            },
+            "val": 11,
+            "target": {
+                "forename": "Stefan",
+                "lastname": "Günther",
+                "auth_id": 324
+            }
+        },
+        {
+            "source": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            },
+            "val": 10,
+            "target": {
+                "forename": "Priyanka",
+                "lastname": "Banerjee",
+                "auth_id": 71
+            }
+        },
+        {
+            "source": {
+                "forename": "Jessica",
+                "lastname": "Ahmed",
+                "auth_id": 290
+            },
+            "val": 8,
+            "target": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            }
+        },
+        {
+            "source": {
+                "forename": "Andrean",
+                "lastname": "Goede",
+                "auth_id": 146
+            },
+            "val": 7,
+            "target": {
+                "forename": "Cornelius",
+                "lastname": "Frömmel",
+                "auth_id": 378
+            }
+        },
+        {
+            "source": {
+                "forename": "Vishal B",
+                "lastname": "Siramshetty",
+                "auth_id": 75
+            },
+            "val": 7,
+            "target": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            }
+        },
+        {
+            "source": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            },
+            "val": 7,
+            "target": {
+                "forename": "Ines S",
+                "lastname": "Jaeger",
+                "auth_id": 270
+            }
+        },
+        {
+            "source": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            },
+            "val": 7,
+            "target": {
+                "forename": "Bjoern-Oliver",
+                "lastname": "Gohlke",
+                "auth_id": 79
+            }
+        },
+        {
+            "source": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            },
+            "val": 7,
+            "target": {
+                "forename": "Joachim",
+                "lastname": "von Eichborn",
+                "auth_id": 267
+            }
+        },
+        {
+            "source": {
+                "forename": "Saskia",
+                "lastname": "Preissner",
+                "auth_id": 74
+            },
+            "val": 7,
+            "target": {
+                "forename": "Mathias",
+                "lastname": "Dunkel",
+                "auth_id": 76
+            }
+        },
+        {
+            "source": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            },
+            "val": 6,
+            "target": {
+                "forename": "Kristian",
+                "lastname": "Rother",
+                "auth_id": 354
+            }
+        },
+        {
+            "source": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            },
+            "val": 6,
+            "target": {
+                "forename": "Björn-Oliver",
+                "lastname": "Gohlke",
+                "auth_id": 84
+            }
+        },
+        {
+            "source": {
+                "forename": "Peter T",
+                "lastname": "Daniel",
+                "auth_id": 180
+            },
+            "val": 6,
+            "target": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            }
+        },
+        {
+            "source": {
+                "forename": "Catherine L",
+                "lastname": "Worth",
+                "auth_id": 254
+            },
+            "val": 6,
+            "target": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            }
+        },
+        {
+            "source": {
+                "forename": "Jessica",
+                "lastname": "Ahmed",
+                "auth_id": 290
+            },
+            "val": 6,
+            "target": {
+                "forename": "Mathias",
+                "lastname": "Dunkel",
+                "auth_id": 76
+            }
+        },
+        {
+            "source": {
+                "forename": "Julia",
+                "lastname": "Hossbach",
+                "auth_id": 336
+            },
+            "val": 6,
+            "target": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            }
+        },
+        {
+            "source": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            },
+            "val": 5,
+            "target": {
+                "forename": "Malgorzata N",
+                "lastname": "Drwal",
+                "auth_id": 171
+            }
+        },
+        {
+            "source": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            },
+            "val": 5,
+            "target": {
+                "forename": "Janette",
+                "lastname": "Nickel",
+                "auth_id": 213
+            }
+        },
+        {
+            "source": {
+                "forename": "Philip E",
+                "lastname": "Bourne",
+                "auth_id": 294
+            },
+            "val": 5,
+            "target": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            }
+        },
+        {
+            "source": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            },
+            "val": 5,
+            "target": {
+                "forename": "Ulrike",
+                "lastname": "Schmidt",
+                "auth_id": 351
+            }
+        },
+        {
+            "source": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            },
+            "val": 5,
+            "target": {
+                "forename": "Bjoern",
+                "lastname": "Gruening",
+                "auth_id": 340
+            }
+        },
+        {
+            "source": {
+                "forename": "Peter Werner",
+                "lastname": "Hildebrand",
+                "auth_id": 355
+            },
+            "val": 5,
+            "target": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            }
+        },
+        {
+            "source": {
+                "forename": "Melanie",
+                "lastname": "Füllbeck",
+                "auth_id": 335
+            },
+            "val": 5,
+            "target": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            }
+        },
+        {
+            "source": {
+                "forename": "Robert",
+                "lastname": "Preissner",
+                "auth_id": 73
+            },
+            "val": 4,
+            "target": {
+                "forename": "Christoph",
+                "lastname": "Gille",
+                "auth_id": 379
+            }
+        },
+        {
+            "source": {
+                "forename": "Cornelius",
+                "lastname": "Frömmel",
+                "auth_id": 378
+            },
+            "val": 4,
+            "target": {
+                "forename": "Christoph",
+                "lastname": "Gille",
+                "auth_id": 379
+            }
+        },
+        {
+            "source": {
+                "forename": "Janette",
+                "lastname": "Nickel",
+                "auth_id": 213
+            },
+            "val": 4,
+            "target": {
+                "forename": "Mathias",
+                "lastname": "Dunkel",
+                "auth_id": 76
+            }
+        }
+    ],
+    "nodes": [
+        {
+            "forename": "Robert",
+            "lastname": "Preissner",
+            "auth_id": 73
+        },
+        {
+            "forename": "Mathias",
+            "lastname": "Dunkel",
+            "auth_id": 76
+        },
+        {
+            "forename": "Andrean",
+            "lastname": "Goede",
+            "auth_id": 146
+        },
+        {
+            "forename": "Saskia",
+            "lastname": "Preissner",
+            "auth_id": 74
+        },
+        {
+            "forename": "Elke",
+            "lastname": "Michalsky",
+            "auth_id": 326
+        },
+        {
+            "forename": "Cornelius",
+            "lastname": "Frömmel",
+            "auth_id": 378
+        },
+        {
+            "forename": "Stefan",
+            "lastname": "Günther",
+            "auth_id": 324
+        },
+        {
+            "forename": "Priyanka",
+            "lastname": "Banerjee",
+            "auth_id": 71
+        },
+        {
+            "forename": "Jessica",
+            "lastname": "Ahmed",
+            "auth_id": 290
+        },
+        {
+            "forename": "Vishal B",
+            "lastname": "Siramshetty",
+            "auth_id": 75
+        },
+        {
+            "forename": "Ines S",
+            "lastname": "Jaeger",
+            "auth_id": 270
+        },
+        {
+            "forename": "Bjoern-Oliver",
+            "lastname": "Gohlke",
+            "auth_id": 79
+        },
+        {
+            "forename": "Joachim",
+            "lastname": "von Eichborn",
+            "auth_id": 267
+        },
+        {
+            "forename": "Kristian",
+            "lastname": "Rother",
+            "auth_id": 354
+        },
+        {
+            "forename": "Björn-Oliver",
+            "lastname": "Gohlke",
+            "auth_id": 84
+        },
+        {
+            "forename": "Peter T",
+            "lastname": "Daniel",
+            "auth_id": 180
+        },
+        {
+            "forename": "Catherine L",
+            "lastname": "Worth",
+            "auth_id": 254
+        },
+        {
+            "forename": "Julia",
+            "lastname": "Hossbach",
+            "auth_id": 336
+        },
+        {
+            "forename": "Malgorzata N",
+            "lastname": "Drwal",
+            "auth_id": 171
+        },
+        {
+            "forename": "Janette",
+            "lastname": "Nickel",
+            "auth_id": 213
+        },
+        {
+            "forename": "Philip E",
+            "lastname": "Bourne",
+            "auth_id": 294
+        },
+        {
+            "forename": "Ulrike",
+            "lastname": "Schmidt",
+            "auth_id": 351
+        },
+        {
+            "forename": "Bjoern",
+            "lastname": "Gruening",
+            "auth_id": 340
+        },
+        {
+            "forename": "Peter Werner",
+            "lastname": "Hildebrand",
+            "auth_id": 355
+        },
+        {
+            "forename": "Melanie",
+            "lastname": "Füllbeck",
+            "auth_id": 335
+        },
+        {
+            "forename": "Christoph",
+            "lastname": "Gille",
+            "auth_id": 379
+        }
+    ]
+}
