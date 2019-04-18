@@ -1,0 +1,272 @@
+[
+    {
+        "a2": {
+            "forename": "Mathias",
+            "auth_id": 76,
+            "lastname": "Dunkel"
+        },
+        "a1": {
+            "forename": "Robert",
+            "auth_id": 73,
+            "lastname": "Preissner"
+        },
+        "Degree": 28
+    },
+    {
+        "a2": {
+            "forename": "Robert",
+            "auth_id": 73,
+            "lastname": "Preissner"
+        },
+        "a1": {
+            "forename": "Andrean",
+            "auth_id": 146,
+            "lastname": "Goede"
+        },
+        "Degree": 19
+    },
+    {
+        "a2": {
+            "forename": "Saskia",
+            "auth_id": 74,
+            "lastname": "Preissner"
+        },
+        "a1": {
+            "forename": "Robert",
+            "auth_id": 73,
+            "lastname": "Preissner"
+        },
+        "Degree": 16
+    },
+    {
+        "a2": {
+            "forename": "Elke",
+            "auth_id": 326,
+            "lastname": "Michalsky"
+        },
+        "a1": {
+            "forename": "Robert",
+            "auth_id": 73,
+            "lastname": "Preissner"
+        },
+        "Degree": 12
+    },
+    {
+        "a2": {
+            "forename": "Stefan",
+            "auth_id": 324,
+            "lastname": "Günther"
+        },
+        "a1": {
+            "forename": "Robert",
+            "auth_id": 73,
+            "lastname": "Preissner"
+        },
+        "Degree": 11
+    },
+    {
+        "a2": {
+            "forename": "Cornelius",
+            "auth_id": 378,
+            "lastname": "Frömmel"
+        },
+        "a1": {
+            "forename": "Robert",
+            "auth_id": 73,
+            "lastname": "Preissner"
+        },
+        "Degree": 11
+    },
+    {
+        "a2": {
+            "forename": "Priyanka",
+            "auth_id": 71,
+            "lastname": "Banerjee"
+        },
+        "a1": {
+            "forename": "Robert",
+            "auth_id": 73,
+            "lastname": "Preissner"
+        },
+        "Degree": 10
+    },
+    {
+        "a2": {
+            "forename": "Robert",
+            "auth_id": 73,
+            "lastname": "Preissner"
+        },
+        "a1": {
+            "forename": "Jessica",
+            "auth_id": 290,
+            "lastname": "Ahmed"
+        },
+        "Degree": 8
+    },
+    {
+        "a2": {
+            "forename": "Joachim",
+            "auth_id": 267,
+            "lastname": "von Eichborn"
+        },
+        "a1": {
+            "forename": "Robert",
+            "auth_id": 73,
+            "lastname": "Preissner"
+        },
+        "Degree": 7
+    },
+    {
+        "a2": {
+            "forename": "Bjoern-Oliver",
+            "auth_id": 79,
+            "lastname": "Gohlke"
+        },
+        "a1": {
+            "forename": "Robert",
+            "auth_id": 73,
+            "lastname": "Preissner"
+        },
+        "Degree": 7
+    },
+    {
+        "a2": {
+            "forename": "Robert",
+            "auth_id": 73,
+            "lastname": "Preissner"
+        },
+        "a1": {
+            "forename": "Vishal B",
+            "auth_id": 75,
+            "lastname": "Siramshetty"
+        },
+        "Degree": 7
+    },
+    {
+        "a2": {
+            "forename": "Mathias",
+            "auth_id": 76,
+            "lastname": "Dunkel"
+        },
+        "a1": {
+            "forename": "Saskia",
+            "auth_id": 74,
+            "lastname": "Preissner"
+        },
+        "Degree": 7
+    },
+    {
+        "a2": {
+            "forename": "Ines S",
+            "auth_id": 270,
+            "lastname": "Jaeger"
+        },
+        "a1": {
+            "forename": "Robert",
+            "auth_id": 73,
+            "lastname": "Preissner"
+        },
+        "Degree": 7
+    },
+    {
+        "a2": {
+            "forename": "Cornelius",
+            "auth_id": 378,
+            "lastname": "Frömmel"
+        },
+        "a1": {
+            "forename": "Andrean",
+            "auth_id": 146,
+            "lastname": "Goede"
+        },
+        "Degree": 7
+    },
+    {
+        "a2": {
+            "forename": "Björn-Oliver",
+            "auth_id": 84,
+            "lastname": "Gohlke"
+        },
+        "a1": {
+            "forename": "Robert",
+            "auth_id": 73,
+            "lastname": "Preissner"
+        },
+        "Degree": 6
+    },
+    {
+        "a2": {
+            "forename": "Robert",
+            "auth_id": 73,
+            "lastname": "Preissner"
+        },
+        "a1": {
+            "forename": "Peter T",
+            "auth_id": 180,
+            "lastname": "Daniel"
+        },
+        "Degree": 6
+    },
+    {
+        "a2": {
+            "forename": "Kristian",
+            "auth_id": 354,
+            "lastname": "Rother"
+        },
+        "a1": {
+            "forename": "Robert",
+            "auth_id": 73,
+            "lastname": "Preissner"
+        },
+        "Degree": 6
+    },
+    {
+        "a2": {
+            "forename": "Mathias",
+            "auth_id": 76,
+            "lastname": "Dunkel"
+        },
+        "a1": {
+            "forename": "Jessica",
+            "auth_id": 290,
+            "lastname": "Ahmed"
+        },
+        "Degree": 6
+    },
+    {
+        "a2": {
+            "forename": "Robert",
+            "auth_id": 73,
+            "lastname": "Preissner"
+        },
+        "a1": {
+            "forename": "Julia",
+            "auth_id": 336,
+            "lastname": "Hossbach"
+        },
+        "Degree": 6
+    },
+    {
+        "a2": {
+            "forename": "Robert",
+            "auth_id": 73,
+            "lastname": "Preissner"
+        },
+        "a1": {
+            "forename": "Catherine L",
+            "auth_id": 254,
+            "lastname": "Worth"
+        },
+        "Degree": 6
+    },
+    [
+        {
+            "npubs": 106
+        }
+    ],
+    [
+        {
+            "total_no_of_coauthors": 349
+        }
+    ]
+]
