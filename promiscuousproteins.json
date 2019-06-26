@@ -1,0 +1,397 @@
+[
+    {
+        "Degree": "", 
+        "a1": {
+            "details": "P0000197", 
+            "id": 0, 
+            "img": "", 
+            "name": "Azithromycin", 
+            "pid": "P0000197", 
+            "totalNbIndications": 21, 
+            "type": "inMol"
+        }, 
+        "a2": {
+            "code": "A00-A09", 
+            "id": 1, 
+            "img": "./images/redCircle.jpg", 
+            "name": "Intestinal infectious diseases", 
+            "type": "indication"
+        }
+    }, 
+    {
+        "Degree": "", 
+        "a1": {
+            "details": "P0000197", 
+            "id": 0, 
+            "img": "", 
+            "name": "Azithromycin", 
+            "pid": "P0000197", 
+            "totalNbIndications": 21, 
+            "type": "inMol"
+        }, 
+        "a2": {
+            "code": "A15-A19", 
+            "id": 2, 
+            "img": "./images/redCircle.jpg", 
+            "name": "Tuberculosis", 
+            "type": "indication"
+        }
+    }, 
+    {
+        "Degree": "", 
+        "a1": {
+            "details": "P0000197", 
+            "id": 0, 
+            "img": "", 
+            "name": "Azithromycin", 
+            "pid": "P0000197", 
+            "totalNbIndications": 21, 
+            "type": "inMol"
+        }, 
+        "a2": {
+            "code": "A20-A28", 
+            "id": 3, 
+            "img": "./images/redCircle.jpg", 
+            "name": "Certain zoonotic bacterial diseases", 
+            "type": "indication"
+        }
+    }, 
+    {
+        "Degree": "", 
+        "a1": {
+            "details": "P0000197", 
+            "id": 0, 
+            "img": "", 
+            "name": "Azithromycin", 
+            "pid": "P0000197", 
+            "totalNbIndications": 21, 
+            "type": "inMol"
+        }, 
+        "a2": {
+            "code": "A30-A49", 
+            "id": 4, 
+            "img": "./images/redCircle.jpg", 
+            "name": "Other bacterial diseases", 
+            "type": "indication"
+        }
+    }, 
+    {
+        "Degree": "", 
+        "a1": {
+            "details": "P0000197", 
+            "id": 0, 
+            "img": "", 
+            "name": "Azithromycin", 
+            "pid": "P0000197", 
+            "totalNbIndications": 21, 
+            "type": "inMol"
+        }, 
+        "a2": {
+            "code": "A50-A64", 
+            "id": 5, 
+            "img": "./images/redCircle.jpg", 
+            "name": "Infections with a predominantly sexual mode of transmission", 
+            "type": "indication"
+        }
+    }, 
+    {
+        "Degree": "", 
+        "a1": {
+            "details": "P0000197", 
+            "id": 0, 
+            "img": "", 
+            "name": "Azithromycin", 
+            "pid": "P0000197", 
+            "totalNbSideEffects": 169, 
+            "type": "inMol"
+        }, 
+        "a2": {
+            "id": 22, 
+            "img": "./images/blueCircle.png", 
+            "name": "Pertussis", 
+            "occurence": "0.015% - 34%", 
+            "type": "sideEffect"
+        }
+    }, 
+    {
+        "Degree": "", 
+        "a1": {
+            "details": "P0000197", 
+            "id": 0, 
+            "img": "", 
+            "name": "Azithromycin", 
+            "pid": "P0000197", 
+            "totalNbSideEffects": 169, 
+            "type": "inMol"
+        }, 
+        "a2": {
+            "id": 23, 
+            "img": "./images/blueCircle.png", 
+            "name": "Acne", 
+            "occurence": "0.06% - 21%", 
+            "type": "sideEffect"
+        }
+    }, 
+    {
+        "Degree": "", 
+        "a1": {
+            "details": "P0000197", 
+            "id": 0, 
+            "img": "", 
+            "name": "Azithromycin", 
+            "pid": "P0000197", 
+            "totalNbSideEffects": 169, 
+            "type": "inMol"
+        }, 
+        "a2": {
+            "id": 24, 
+            "img": "./images/blueCircle.png", 
+            "name": "Loose stools", 
+            "occurence": "1.2% - 19.1%", 
+            "type": "sideEffect"
+        }
+    }, 
+    {
+        "Degree": "", 
+        "a1": {
+            "details": "P0000197", 
+            "id": 0, 
+            "img": "", 
+            "name": "Azithromycin", 
+            "pid": "P0000197", 
+            "totalNbSideEffects": 169, 
+            "type": "inMol"
+        }, 
+        "a2": {
+            "id": 25, 
+            "img": "./images/blueCircle.png", 
+            "name": "Injection site pain", 
+            "occurence": "6.5%", 
+            "type": "sideEffect"
+        }
+    }, 
+    {
+        "Degree": "", 
+        "a1": {
+            "details": "P0000197", 
+            "id": 0, 
+            "img": "", 
+            "name": "Azithromycin", 
+            "pid": "P0000197", 
+            "totalNbSideEffects": 169, 
+            "type": "inMol"
+        }, 
+        "a2": {
+            "id": 26, 
+            "img": "./images/blueCircle.png", 
+            "name": "Application site pain", 
+            "occurence": "6.5%", 
+            "type": "sideEffect"
+        }
+    }, 
+    {
+        "Degree": "", 
+        "a1": {
+            "details": "P0000197", 
+            "id": 0, 
+            "img": "", 
+            "name": "Azithromycin", 
+            "pid": "P0000197", 
+            "totalNbSideEffects": 1177, 
+            "type": "inMol"
+        }, 
+        "a2": {
+            "id": 191, 
+            "img": "./images/greenCircle.jpg", 
+            "name": "Azithromycin", 
+            "occurence": "The serum concentration of Cisapride can be increased when it is combined with Azithromycin.", 
+            "pid": "P0000590", 
+            "type": "DDI"
+        }
+    }, 
+    {
+        "Degree": "", 
+        "a1": {
+            "details": "P0000197", 
+            "id": 0, 
+            "img": "", 
+            "name": "Azithromycin", 
+            "pid": "P0000197", 
+            "totalNbSideEffects": 1177, 
+            "type": "inMol"
+        }, 
+        "a2": {
+            "id": 192, 
+            "img": "./images/greenCircle.jpg", 
+            "name": "Azithromycin", 
+            "occurence": "The risk or severity of QTc prolongation and ventricular arrhythmias can be increased when Azithromycin is combined with Pimozide.", 
+            "pid": "P0001083", 
+            "type": "DDI"
+        }
+    }, 
+    {
+        "Degree": "", 
+        "a1": {
+            "details": "P0000197", 
+            "id": 0, 
+            "img": "", 
+            "name": "Azithromycin", 
+            "pid": "P0000197", 
+            "totalNbSideEffects": 1177, 
+            "type": "inMol"
+        }, 
+        "a2": {
+            "id": 193, 
+            "img": "./images/greenCircle.jpg", 
+            "name": "Azithromycin", 
+            "occurence": "The serum concentration of Terfenadine can be increased when it is combined with Azithromycin.", 
+            "pid": "P0000331", 
+            "type": "DDI"
+        }
+    }, 
+    {
+        "Degree": "", 
+        "a1": {
+            "details": "P0000197", 
+            "id": 0, 
+            "img": "", 
+            "name": "Azithromycin", 
+            "pid": "P0000197", 
+            "totalNbSideEffects": 1177, 
+            "type": "inMol"
+        }, 
+        "a2": {
+            "id": 194, 
+            "img": "./images/greenCircle.jpg", 
+            "name": "Azithromycin", 
+            "occurence": "The risk or severity of myopathy and rhabdomyolysis can be increased when Azithromycin is combined with Atorvastatin.", 
+            "pid": "P0001059", 
+            "type": "DDI"
+        }
+    }, 
+    {
+        "Degree": "", 
+        "a1": {
+            "details": "P0000197", 
+            "id": 0, 
+            "img": "", 
+            "name": "Azithromycin", 
+            "pid": "P0000197", 
+            "totalNbSideEffects": 1177, 
+            "type": "inMol"
+        }, 
+        "a2": {
+            "id": 195, 
+            "img": "./images/greenCircle.jpg", 
+            "name": "Azithromycin", 
+            "occurence": "The serum concentration of Acetyldigitoxin can be increased when it is combined with Azithromycin.", 
+            "pid": "P0000497", 
+            "type": "DDI"
+        }
+    }, 
+    {
+        "Degree": "", 
+        "a1": {
+            "details": "P0000197", 
+            "id": 0, 
+            "img": "", 
+            "name": "Azithromycin", 
+            "pid": "P0000197", 
+            "totalNbSideEffects": 8, 
+            "type": "inMol"
+        }, 
+        "a2": {
+            "activity_reg": "", 
+            "id": 1368, 
+            "img": "./images/orangeCircle.jpg", 
+            "name": "TSHR", 
+            "type": "interactions", 
+            "uniprot_id": "P16473", 
+            "uniprot_name": "TSHR_HUMAN"
+        }
+    }, 
+    {
+        "Degree": "", 
+        "a1": {
+            "details": "P0000197", 
+            "id": 0, 
+            "img": "", 
+            "name": "Azithromycin", 
+            "pid": "P0000197", 
+            "totalNbSideEffects": 8, 
+            "type": "inMol"
+        }, 
+        "a2": {
+            "activity_reg": "", 
+            "id": 1369, 
+            "img": "./images/orangeCircle.jpg", 
+            "name": "CYP3A4", 
+            "type": "interactions", 
+            "uniprot_id": "P08684", 
+            "uniprot_name": "CP3A4_HUMAN"
+        }
+    }, 
+    {
+        "Degree": "", 
+        "a1": {
+            "details": "P0000197", 
+            "id": 0, 
+            "img": "", 
+            "name": "Azithromycin", 
+            "pid": "P0000197", 
+            "totalNbSideEffects": 8, 
+            "type": "inMol"
+        }, 
+        "a2": {
+            "activity_reg": "", 
+            "id": 1370, 
+            "img": "./images/orangeCircle.jpg", 
+            "name": "PTGS1", 
+            "type": "interactions", 
+            "uniprot_id": "P23219", 
+            "uniprot_name": "PGH1_HUMAN"
+        }
+    }, 
+    {
+        "Degree": "", 
+        "a1": {
+            "details": "P0000197", 
+            "id": 0, 
+            "img": "", 
+            "name": "Azithromycin", 
+            "pid": "P0000197", 
+            "totalNbSideEffects": 8, 
+            "type": "inMol"
+        }, 
+        "a2": {
+            "activity_reg": "ACTIVITY REGULATION: Inhibited by nonsteroidal anti-inflammatory drugs (NSAIDs) including aspirin, ibuprofen, flurbiprofen and celecoxib (PubMed:26859324). Inhibited by flufenamic acid, mefenamic acid and tolfenamic acid (PubMed:27226593). {ECO:0000269|PubMed:26859324, ECO:0000269|PubMed:27226593}.", 
+            "id": 1371, 
+            "img": "./images/orangeCircle.jpg", 
+            "name": "PTGS2", 
+            "type": "interactions", 
+            "uniprot_id": "P35354", 
+            "uniprot_name": "PGH2_HUMAN"
+        }
+    }, 
+    {
+        "Degree": "", 
+        "a1": {
+            "details": "P0000197", 
+            "id": 0, 
+            "img": "", 
+            "name": "Azithromycin", 
+            "pid": "P0000197", 
+            "totalNbSideEffects": 8, 
+            "type": "inMol"
+        }, 
+        "a2": {
+            "activity_reg": "ACTIVITY REGULATION: Strongly Inhibited by F-amidine and N-alpha-benzoyl-N5-(2-chloro-1-iminoethyl)-L-ornithine amide (Cl-amidine). These inhibitors are however not specific to PADI4 and also inhibit other members of the family (PubMed:17002273). Incorporation of a carboxylate ortho to the backbone amide of Cl-amidine results in inhibitors with increased specificity for PADI4: N-alpha-(2-carboxyl)benzoyl-N(5)-(2-fluoro-1-iminoethyl)-L-ornithine amide (o-F-amidine) and N-alpha-(2-carboxyl)benzoyl-N(5)-(2-chloro-1-iminoethyl)-L-ornithine amide (o-Cl-amidine) (PubMed:21882827). Strongly and specifically inhibited by Thr-Asp-F-amidine (TDFA); other members of the family are not inhibited (PubMed:22004374). {ECO:0000269|PubMed:17002273, ECO:0000269|PubMed:21882827, ECO:0000269|PubMed:22004374}.", 
+            "id": 1372, 
+            "img": "./images/orangeCircle.jpg", 
+            "name": "PADI4", 
+            "type": "interactions", 
+            "uniprot_id": "Q9UM07", 
+            "uniprot_name": "PADI4_HUMAN"
+        }
+    }
+]
