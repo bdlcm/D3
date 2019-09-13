@@ -1,0 +1,290 @@
+ 
+"links": [
+      
+
+        {
+            "has_DDI": "Warfarin and Metreleptin", 
+            "source": 0, 
+            "target": 1, 
+            "value": 1
+        }, 
+        {
+            "has_DDI": "Warfarin and Safinamide", 
+            "source": 0, 
+            "target": 10, 
+            "value": 1
+        },
+
+       {
+            "has_DDI": "Warfarin and Ethyl biscoumacetate", 
+            "source": 0, 
+            "target": 16, 
+            "value": 1
+        },
+        {
+            "has_DDI": "Warfarin and Prednisolone", 
+            "source": 0, 
+            "target": 12, 
+            "value": 1
+        },
+        {
+            "has_DDI": "Warfarin and Ceftriaxon", 
+            "source": 0, 
+            "target": 15, 
+            "value": 1
+        },
+
+        {
+            "has_DDI": "Warfarin and Capsaicin", 
+            "source": 0, 
+            "target": 11, 
+            "value": 1
+        },
+
+
+
+
+        {
+            "has_DrugIndication": "G20-G26: Tetrabenazine", 
+            "source": 2, 
+            "target": 7, 
+            "value": 1
+        }, 
+        {
+            "has_DrugIndication": "G20-G26: Pardoprunox", 
+            "source": 2, 
+            "target": 8, 
+            "value": 1
+        }, 
+        {
+            "has_DrugIndication": "G20-G26: Talampanel", 
+            "source": 2, 
+            "target": 9, 
+            "value": 1
+        }, 
+
+            {
+                "has_DrugIndication": "G20-G26: Safinamide", 
+                "source": 2, 
+                "target": 10, 
+                "value": 1
+            }, 
+
+
+
+            {
+                "has_TargetIndication": "G20-G26: COMT", 
+                "source": 2, 
+                "target": 3, 
+                "value": 1
+            }, 
+
+            {
+                "has_TargetIndication": "G20-G26: ACACB", 
+                "source": 2, 
+                "target": 4, 
+                "value": 1
+            }, 
+
+            {
+                "has_TargetIndication": "G20-G26: GLUL", 
+                "source": 2, 
+                "target": 6, 
+                "value": 1
+            }, 
+
+            {
+                "has_TargetIndication": "Ethyl biscoumacetate", 
+                "source": 6, 
+                "target": 16, 
+                "value": 1
+            }, 
+
+            {
+                "has_TargetIndication": "Prednisolone", 
+                "source": 6, 
+                "target": 12, 
+                "value": 1
+            }, 
+            {
+                "has_TargetIndication": "Capsaicin", 
+                "source": 6, 
+                "target": 11, 
+                "value": 1
+            },
+
+            {
+                "has_TargetIndication": "Ceftriaxon", 
+                "source": 6, 
+                "target": 15, 
+                "value": 1
+            }
+
+    ], 
+    "nodes": [
+        {
+            "db_id": "diid_667", 
+            "id": 0, 
+            "img": "", 
+            "label": "Warfarin", 
+            "pid": "P0000667", 
+            "totalNbDDI": 99, 
+            "totalNbDrugTarget": 18, 
+            "totalNbIndications": 4, 
+            "totalNbSiteEffects": 76, 
+            "type": "inMol"
+        }, 
+
+        {
+            "db_id": "ddiid_579242", 
+            "id": 1, 
+            "img": "./images/greenCircle.png", 
+            "interaction": "The metabolism of Warfarin can be increased when combined with Metreleptin.", 
+            "label": "Metreleptin", 
+            "pid": "P0007973", 
+            "type": "DDI"
+        }, 
+
+        {
+            "code": "G20-G26", 
+            "db_id": "icid_412232", 
+            "desc": "Extrapyramidal and movement disorders", 
+            "id": 2, 
+            "img": "", 
+            "label": "G20-G26", 
+            "totalNbDrugInteractions": 57, 
+            "totalNbTargetInteractions": 49, 
+            "type": "inInd"
+        },
+
+        {
+            "activity_reg": "", 
+            "db_id": "target_P21964", 
+            "id": 3, 
+            "img": "./images/orangeCircle.png", 
+            "label": "COMT", 
+            "type": "interactions", 
+            "uniprot_id": "P21964", 
+            "uniprot_name": "COMT_HUMAN"
+        }, 
+
+        {
+            "activity_reg": "ACTIVITY REGULATION: Activity is increased by oligomerization. Activated by citrate. Citrate and MID1IP1 promote oligomerization. Inhibited by malonyl-CoA. {ECO:0000269|PubMed:16854592, ECO:0000269|PubMed:20952656}.", 
+            "db_id": "target_O00763", 
+            "id": 4, 
+            "img": "./images/orangeCircle.png", 
+            "label": "ACACB", 
+            "type": "interactions", 
+            "uniprot_id": "O00763", 
+            "uniprot_name": "ACACB_HUMAN"
+        },
+
+        
+        {
+            "activity_reg": , 
+            "db_id": "target_O00763", 
+            "id":5, 
+            "img": "./images/orangeCircle.png", 
+            "label": "GRIA2", 
+            "type": "interactions", 
+            "uniprot_id": "O00763", 
+            "uniprot_name": "ACACB_HUMAN"
+        },
+
+        {
+            "activity_reg":, 
+            "db_id": "target_O00763", 
+            "id": 6, 
+            "img": "./images/orangeCircle.png", 
+            "label": "GLUL", 
+            "type": "interactions", 
+            "uniprot_id": "O00763", 
+            "uniprot_name": "ACACB_HUMAN"
+        },
+
+
+        {
+            "db_id": "diid_4564", 
+            "id": 7, 
+            "img": "./images/greenCircle.png", 
+            "label": "Tetrabenazine", 
+            "pid": "P0004564", 
+            "type": "DDI"
+        },
+
+        {
+            "db_id": "diid_9751", 
+            "id": 8, 
+            "img": "./images/greenCircle.png", 
+            "label": "Pardoprunox", 
+            "pid": "P0009751", 
+            "type": "DDI"
+        },
+        {
+            "db_id": "diid_4689", 
+            "id": 9, 
+            "img": "./images/greenCircle.png", 
+            "label": "Talampanel", 
+            "pid": "P0004689", 
+            "type": "DDI"
+        }, 
+
+        {
+            "db_id": "diid_5709", 
+            "id": 10, 
+            "img": "./images/greenCircle.png", 
+            "label": "Safinamide", 
+            "pid": "P0005709", 
+            "type": "DDI"
+        }, 
+        {
+            "db_id": "diid_5709", 
+            "id": 11, 
+            "img": "./images/greenCircle.png", 
+            "label": "Capsaicin", 
+            "pid": "P0005709", 
+            "type": "DDI"
+        }, 
+        {
+            "db_id": "diid_5709", 
+            "id": 12, 
+            "img": "./images/greenCircle.png", 
+            "label": "Prednisolone", 
+            "pid": "P0005709", 
+            "type": "DDI"
+        }, 
+        {
+            "db_id": "diid_5709", 
+            "id": 13, 
+            "img": "./images/greenCircle.png", 
+            "label": "Allopurinol", 
+            "pid": "P0005709", 
+            "type": "DDI"
+        }, 
+
+        {
+            "db_id": "diid_5709", 
+            "id": 14, 
+            "img": "./images/greenCircle.png", 
+            "label": "Azathioprine", 
+            "pid": "P0005709", 
+            "type": "DDI"
+        }, 
+        {
+            "db_id": "diid_5709", 
+            "id": 15, 
+            "img": "./images/greenCircle.png", 
+            "label": "Ceftriaxon ", 
+            "pid": "P0005709", 
+            "type": "DDI"
+        }, 
+        {
+            "db_id": "diid_5709", 
+            "id": 16, 
+            "img": "./images/greenCircle.png", 
+            "label": "Ethyl biscoumacetate", 
+            "pid": "P0005709", 
+            "type": "DDI"
+        }
+    ]
+}
