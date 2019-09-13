@@ -1,5 +1,6 @@
+
  
-{"links": [
+ {"links": [
       
 
         {
@@ -181,7 +182,7 @@
 
         
         {
-            "activity_reg": , 
+            "activity_reg": "nothing", 
             "db_id": "target_O00763", 
             "id":5, 
             "img": "./images/orangeCircle.png", 
@@ -192,7 +193,7 @@
         },
 
         {
-            "activity_reg":, 
+            "activity_reg": "nothing", 
             "db_id": "target_O00763", 
             "id": 6, 
             "img": "./images/orangeCircle.png", 
