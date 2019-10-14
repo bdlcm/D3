@@ -1,262 +1,117 @@
 [
     {
-        "a2": {
-            "forename": "Mathias",
-            "auth_id": 76,
-            "lastname": "Dunkel"
-        },
         "a1": {
             "forename": "Robert",
-            "auth_id": 73,
-            "lastname": "Preissner"
+            "lastname": "Preissner",
+            "initials": "R",
+            "nrPaper": "118.0",
+            "LastPubYear": "2018.0",
+            "affiliation": "Structural Bioinformatics Group, Experimental and Clinical Research Center (ECRC), Charité - University Medicine Berlin, Berlin, Germany.####German Cancer Consortium (DKTK), German Cancer Research Center (DKFZ), Heidelberg, Germany.####BB3R - Berlin Brandenburg 3R Graduate School, Freie Universitaät Berlin, Berlin, Germany.####Structural Bioinformatics Group, Institute for Physiology, Charité - University Medicine Berlin, Berlin, Germany.",
+            "FirstPubYear": "1990.0",
+            "author_id": "124192640005"
+        },
+        "a2": {
+            "forename": "Mathias",
+            "lastname": "Dunkel",
+            "initials": "M",
+            "nrPaper": "29",
+            "LastPubYear": "2017",
+            "affiliation": "Structural Bioinformatics Group, Institute of Molecular Biology and Bioinformatics, Charité - University Medicine Berlin, Arnimallee 22, 14195 Berlin, Germany.",
+            "FirstPubYear": "2005",
+            "author_id": "158234100002"
         },
         "Degree": 28
     },
     {
-        "a2": {
-            "forename": "Robert",
-            "auth_id": 73,
-            "lastname": "Preissner"
-        },
         "a1": {
+            "forename": "Robert",
+            "lastname": "Preissner",
+            "initials": "R",
+            "nrPaper": "118.0",
+            "LastPubYear": "2018.0",
+            "affiliation": "Structural Bioinformatics Group, Experimental and Clinical Research Center (ECRC), Charité - University Medicine Berlin, Berlin, Germany.####German Cancer Consortium (DKTK), German Cancer Research Center (DKFZ), Heidelberg, Germany.####BB3R - Berlin Brandenburg 3R Graduate School, Freie Universitaät Berlin, Berlin, Germany.####Structural Bioinformatics Group, Institute for Physiology, Charité - University Medicine Berlin, Berlin, Germany.",
+            "FirstPubYear": "1990.0",
+            "author_id": "124192640005"
+        },
+        "a2": {
             "forename": "Andrean",
-            "auth_id": 146,
-            "lastname": "Goede"
+            "lastname": "Goede",
+            "initials": "A",
+            "nrPaper": "35.0",
+            "LastPubYear": "2018.0",
+            "affiliation": "Structural Bioinformatics Group, Institute for Physiology, Charité - University Medicine Berlin, Berlin, Germany.",
+            "FirstPubYear": "1997.0",
+            "author_id": "125952560002"
         },
-        "Degree": 19
+        "Degree": 26
     },
     {
-        "a2": {
-            "forename": "Saskia",
-            "auth_id": 74,
-            "lastname": "Preissner"
-        },
         "a1": {
             "forename": "Robert",
-            "auth_id": 73,
-            "lastname": "Preissner"
+            "lastname": "Preissner",
+            "initials": "R",
+            "nrPaper": "118.0",
+            "LastPubYear": "2018.0",
+            "affiliation": "Structural Bioinformatics Group, Experimental and Clinical Research Center (ECRC), Charité - University Medicine Berlin, Berlin, Germany.####German Cancer Consortium (DKTK), German Cancer Research Center (DKFZ), Heidelberg, Germany.####BB3R - Berlin Brandenburg 3R Graduate School, Freie Universitaät Berlin, Berlin, Germany.####Structural Bioinformatics Group, Institute for Physiology, Charité - University Medicine Berlin, Berlin, Germany.",
+            "FirstPubYear": "1990.0",
+            "author_id": "124192640005"
         },
-        "Degree": 16
+        "a2": {
+            "forename": "Cornelius",
+            "lastname": "Frömmel",
+            "initials": "C",
+            "nrPaper": "57",
+            "LastPubYear": "2015",
+            "affiliation": "Department of Orthobionic, Georg-August University, Göttingen, Germany.",
+            "FirstPubYear": "1978",
+            "author_id": "128047580004"
+        },
+        "Degree": 20
     },
     {
+        "a1": {
+            "forename": "Robert",
+            "lastname": "Preissner",
+            "initials": "R",
+            "nrPaper": "118.0",
+            "LastPubYear": "2018.0",
+            "affiliation": "Structural Bioinformatics Group, Experimental and Clinical Research Center (ECRC), Charité - University Medicine Berlin, Berlin, Germany.####German Cancer Consortium (DKTK), German Cancer Research Center (DKFZ), Heidelberg, Germany.####BB3R - Berlin Brandenburg 3R Graduate School, Freie Universitaät Berlin, Berlin, Germany.####Structural Bioinformatics Group, Institute for Physiology, Charité - University Medicine Berlin, Berlin, Germany.",
+            "FirstPubYear": "1990.0",
+            "author_id": "124192640005"
+        },
         "a2": {
             "forename": "Elke",
-            "auth_id": 326,
-            "lastname": "Michalsky"
+            "lastname": "Michalsky",
+            "initials": "E",
+            "nrPaper": "15",
+            "LastPubYear": "2010",
+            "affiliation": "BCB (Berlin Center for Genome Based Bioinformatics) at Institute of Biochemistry, Charité (University Medicine Berlin), Monbijoustr, 2, 10117 Berlin, Germany. elke.michalsky@charite.de",
+            "FirstPubYear": "2003",
+            "author_id": "146682410003"
         },
-        "a1": {
-            "forename": "Robert",
-            "auth_id": 73,
-            "lastname": "Preissner"
-        },
-        "Degree": 12
+        "Degree": 13
     },
     {
+        "a1": {
+            "forename": "Robert",
+            "lastname": "Preissner",
+            "initials": "R",
+            "nrPaper": "118.0",
+            "LastPubYear": "2018.0",
+            "affiliation": "Structural Bioinformatics Group, Experimental and Clinical Research Center (ECRC), Charité - University Medicine Berlin, Berlin, Germany.####German Cancer Consortium (DKTK), German Cancer Research Center (DKFZ), Heidelberg, Germany.####BB3R - Berlin Brandenburg 3R Graduate School, Freie Universitaät Berlin, Berlin, Germany.####Structural Bioinformatics Group, Institute for Physiology, Charité - University Medicine Berlin, Berlin, Germany.",
+            "FirstPubYear": "1990.0",
+            "author_id": "124192640005"
+        },
         "a2": {
             "forename": "Stefan",
-            "auth_id": 324,
-            "lastname": "Günther"
-        },
-        "a1": {
-            "forename": "Robert",
-            "auth_id": 73,
-            "lastname": "Preissner"
-        },
-        "Degree": 11
-    },
-    {
-        "a2": {
-            "forename": "Cornelius",
-            "auth_id": 378,
-            "lastname": "Frömmel"
-        },
-        "a1": {
-            "forename": "Robert",
-            "auth_id": 73,
-            "lastname": "Preissner"
+            "lastname": "Günther",
+            "initials": "S",
+            "nrPaper": "14",
+            "LastPubYear": "2013",
+            "affiliation": "Institute of Molecular Biology and Bioinformatics - Charité, 14195 Berlin, Germany. stefan.guenther@charite.de",
+            "FirstPubYear": "2006",
+            "author_id": "169849210006"
         },
         "Degree": 11
-    },
-    {
-        "a2": {
-            "forename": "Priyanka",
-            "auth_id": 71,
-            "lastname": "Banerjee"
-        },
-        "a1": {
-            "forename": "Robert",
-            "auth_id": 73,
-            "lastname": "Preissner"
-        },
-        "Degree": 10
-    },
-    {
-        "a2": {
-            "forename": "Robert",
-            "auth_id": 73,
-            "lastname": "Preissner"
-        },
-        "a1": {
-            "forename": "Jessica",
-            "auth_id": 290,
-            "lastname": "Ahmed"
-        },
-        "Degree": 8
-    },
-    {
-        "a2": {
-            "forename": "Joachim",
-            "auth_id": 267,
-            "lastname": "von Eichborn"
-        },
-        "a1": {
-            "forename": "Robert",
-            "auth_id": 73,
-            "lastname": "Preissner"
-        },
-        "Degree": 7
-    },
-    {
-        "a2": {
-            "forename": "Bjoern-Oliver",
-            "auth_id": 79,
-            "lastname": "Gohlke"
-        },
-        "a1": {
-            "forename": "Robert",
-            "auth_id": 73,
-            "lastname": "Preissner"
-        },
-        "Degree": 7
-    },
-    {
-        "a2": {
-            "forename": "Robert",
-            "auth_id": 73,
-            "lastname": "Preissner"
-        },
-        "a1": {
-            "forename": "Vishal B",
-            "auth_id": 75,
-            "lastname": "Siramshetty"
-        },
-        "Degree": 7
-    },
-    {
-        "a2": {
-            "forename": "Mathias",
-            "auth_id": 76,
-            "lastname": "Dunkel"
-        },
-        "a1": {
-            "forename": "Saskia",
-            "auth_id": 74,
-            "lastname": "Preissner"
-        },
-        "Degree": 7
-    },
-    {
-        "a2": {
-            "forename": "Ines S",
-            "auth_id": 270,
-            "lastname": "Jaeger"
-        },
-        "a1": {
-            "forename": "Robert",
-            "auth_id": 73,
-            "lastname": "Preissner"
-        },
-        "Degree": 7
-    },
-    {
-        "a2": {
-            "forename": "Cornelius",
-            "auth_id": 378,
-            "lastname": "Frömmel"
-        },
-        "a1": {
-            "forename": "Andrean",
-            "auth_id": 146,
-            "lastname": "Goede"
-        },
-        "Degree": 7
-    },
-    {
-        "a2": {
-            "forename": "Björn-Oliver",
-            "auth_id": 84,
-            "lastname": "Gohlke"
-        },
-        "a1": {
-            "forename": "Robert",
-            "auth_id": 73,
-            "lastname": "Preissner"
-        },
-        "Degree": 6
-    },
-    {
-        "a2": {
-            "forename": "Robert",
-            "auth_id": 73,
-            "lastname": "Preissner"
-        },
-        "a1": {
-            "forename": "Peter T",
-            "auth_id": 180,
-            "lastname": "Daniel"
-        },
-        "Degree": 6
-    },
-    {
-        "a2": {
-            "forename": "Kristian",
-            "auth_id": 354,
-            "lastname": "Rother"
-        },
-        "a1": {
-            "forename": "Robert",
-            "auth_id": 73,
-            "lastname": "Preissner"
-        },
-        "Degree": 6
-    },
-    {
-        "a2": {
-            "forename": "Mathias",
-            "auth_id": 76,
-            "lastname": "Dunkel"
-        },
-        "a1": {
-            "forename": "Jessica",
-            "auth_id": 290,
-            "lastname": "Ahmed"
-        },
-        "Degree": 6
-    },
-    {
-        "a2": {
-            "forename": "Robert",
-            "auth_id": 73,
-            "lastname": "Preissner"
-        },
-        "a1": {
-            "forename": "Julia",
-            "auth_id": 336,
-            "lastname": "Hossbach"
-        },
-        "Degree": 6
-    },
-    {
-        "a2": {
-            "forename": "Robert",
-            "auth_id": 73,
-            "lastname": "Preissner"
-        },
-        "a1": {
-            "forename": "Catherine L",
-            "auth_id": 254,
-            "lastname": "Worth"
-        },
-        "Degree": 6
     }
-]
+    ]
