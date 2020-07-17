@@ -249,7 +249,86 @@
       "source": "Charité – Universitätsmedizin Berlin",
       "target": "UNIVERSITY OF TORONTO",
       "value": 498
-    }
-    
+    },
+     {
+      "source": "Charité – Universitätsmedizin Berlin",
+      "target": "UNIVERSITY OF FREIBURG",
+      "value": 654
+    },
+     {
+      "source": "Charité – Universitätsmedizin Berlin",
+      "target": "UNIVERSITY OF MUNSTER",
+      "value": 632
+    },
+    {
+      "source": "Charité – Universitätsmedizin Berlin",
+      "target": "UNIVERSITY OF WURZBURG",
+      "value": 623
+    },
+    {
+      "source": "Charité – Universitätsmedizin Berlin",
+      "target": "UNIVERSITY OF DUISBURG ESSEN",
+      "value": 597
+    },
+     {
+      "source": "Charité – Universitätsmedizin Berlin",
+      "target": "UNIVERSITY OF GOTTINGEN",
+      "value": 596
+    },
+    {
+      "source": "Charité – Universitätsmedizin Berlin",
+      "target": "UNIVERSITY OF ERLANGEN NUREMBERG",
+      "value": 595
+    },
+    {
+      "source": "Charité – Universitätsmedizin Berlin",
+      "target": "ULM UNIVERSITY",
+      "value": 580
+    },
+    {
+      "source": "Charité – Universitätsmedizin Berlin",
+      "target": "UNIVERSITY OF BONN",
+      "value": 575
+    },
+     {
+      "source": "Charité – Universitätsmedizin Berlin",
+      "target": "FRIEDRICH SCHILLER UNIVERSITY OF JENA",
+      "value": 563
+    },
+     {
+      "source": "Charité – Universitätsmedizin Berlin",
+      "target": "GOETHE UNIVERSITY FRANKFURT",
+      "value": 550
+    },
+    {
+      "source": "Charité – Universitätsmedizin Berlin",
+      "target": "EBERHARD KARLS UNIVERSITY HOSPITAL",
+      "value": 537
+    },
+    {
+      "source": "Charité – Universitätsmedizin Berlin",
+      "target": "SCHLESWIG HOLSTEIN UNIVERSITY HOSPITAL",
+      "value": 531
+    },
+     {
+      "source": "Charité – Universitätsmedizin Berlin",
+      "target": "HEINRICH HEINE UNIVERSITY DUSSELDORF",
+      "value": 522
+    },
+    {
+      "source": "Charité – Universitätsmedizin Berlin",
+      "target": "RUHR UNIVERSITY BOCHUM",
+      "value": 501
+    },
+    {
+      "source": "Charité – Universitätsmedizin Berlin",
+      "target": "UNIVERSITY OF COPENHAGEN",
+      "value": 493
+    },
+    {
+      "source": "Charité – Universitätsmedizin Berlin",
+      "target": "UNIVERSITY OF ZURICH",
+      "value": 479
+    },
   ]
 }
