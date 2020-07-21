@@ -2,155 +2,230 @@
   "nodes": [
     {
       "id": "Charité – Universitätsmedizin Berlin",
-      "group": 1
+      "group": 1,
+       "site": "https://www.charite.de/en/",
+       "address": "Charitépl. 1, 10117 Berlin, Germany"
     },
     {
       "id": "RUPRECHT KARLS UNIVERSITY HEIDELBERG",
-      "group": 1
+      "group": 1,
+      "site": "http://www.uni-heidelberg.de/",
+       "address": "GRABENGASSE 1, 69117 HEIDELBERG, GERMANY "
     },
     {
       "id": "UNIVERSITY OF HAMBURG",
-      "group": 1
+      "group": 1,
+      "site": "http://www.uni-hamburg.de/",
+       "address": "EDMUND-SIEMERS-ALLEE 1,20146 HAMBURG, GERMANY"
     },
     {
       "id": "UNIVERSITY OF MUNICH",
-      "group": 1
+      "group": 1,
+        "site": "http://www.uni-muenchen.de/index.html",
+       "address": "GESCHWISTER-SCHOLL-PLATZ 1, 80539 MUNICH, GERMANY"
     },
     {
       "id": "UNIVERSITY OF LONDON",
-      "group": 0
+      "group": 0,
+       "site": "http://www.london.ac.uk/",
+       "address": "SENATE HOUSE, MALET STREET, LONDON, WC1E 7HU ,LONDON, ENGLAND, UNITED KINGDOM"
+      
     },
     {
       "id": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE INSERM",
-      "group": 0
+      "group": 0,
+      "site": "http://www.inserm.fr/index.php",
+       "address": "PARIS, FRANCE"
     },
     {
       "id": "TECHNISCHE UNIVERSITAT DRESDEN",
-      "group": 1
+      "group": 1,
+      "site": "https://tu-dresden.de/",
+       "address": "HELMHOLTZSTR. 10, 01069 DRESDEN, GERMANY"
     },
     {
       "id": "EBERHARD KARLS UNIVERSITY OF TUBINGEN",
-      "group": 1
+      "group": 1,
+      "site": "http://www.uni-tuebingen.de/",
+       "address": "WILHELMSTRASSE 5, 72074 TUBINGEN, GERMANY"
     },
     {
       "id": "HARVARD UNIVERSITY",
-      "group": 0
+      "group": 0,
+      
+      "site": "www.harvard.edu/",
+       "address": "MASSACHUSETTS HALL ,CAMBRIDGE, 02138 MASSACHUSETTS, UNITED STATES"
     },
     {
       "id": "UNIVERSITY OF COLOGNE",
-      "group": 1
+      "group": 1,
+      "site": "http://www.uni-koeln.de/",
+       "address": "ALBERTUS-MAGNUS-PLATZ, 50923 COLOGNE, GERMANY"
     },
     {
       "id": "ASSISTANCE PUBLIQUE HOPITAUX PARIS APHP",
-      "group": 0
+      "group": 0,
+      "site": "http://www.aphp.fr/",
+       "address": "47, QUAI TOURNELLE, 75005 PARIS, FRANCE"
+      
     },
     {
       "id": "UNIVERSITY OF KIEL",
-      "group": 1
+      "group": 1,
+      "site": "http://www.uni-kiel.de/index-e.shtml",
+       "address": "UNIHOCHHAUS CHRISTIAN-ALBRECHTS-PLATZ 4 ,D-35032 KIEL, GERMANY "
     },
     {
       "id": "HANNOVER MEDICAL SCHOOL",
-      "group": 1
+      "group": 1,
+      "site": "http://www.mh-hannover.de/",
+       "address": "CARL-NEUBERG-STR. 1, 30625 WESSLING, GERMANY"
     },
     {
       "id": "TECHNICAL UNIVERSITY OF MUNICH",
-      "group": 1
+      "group": 1,
+       "site": "https://www.tum.de/",
+       "address": "ARCISSTRAA?E 21, 80333 MA 1/4 MUNICH, GERMANY"
     },
     {
       "id": "UNIVERSITY OF CALIFORNIA SYSTEM",
-      "group": 0
+      "group": 0,
+      "site": "https://www.universityofcalifornia.edu/uc-system",
+       "address": "1111 FRANKLIN ST., 12TH FLOOR 94607 ,OAKLAND, CALIFORNIA, UNITED STATES"
     },
     {
       "id": "UNIVERSITY OF LEIPZIG",
-      "group": 1
+      "group": 1,
+      "site": "http://www.zv.uni-leipzig.de/",
+       "address": "GOETHESTRASSE 6, 04109 LEIPZIG, GERMANY"
     },
     {
       "id": "UNIVERSITY OF FREIBURG",
-      "group": 1
+      "group": 1,
+      "site": "https://www.uni-freiburg.de/",
+       "address": " Fahnenbergplatz, 79085 Freiburg im Breisgau, Germany"
     },
     {
       "id": "UNIVERSITY OF MUNSTER",
-      "group": 1
+      "group": 1,
+      "site": "https://www.uni-muenster.de/en/",
+      "address": " Schlossplatz 2, 48149 Münster Germany"
     },
     {
       "id": "UNIVERSITY OF WURZBURG",
-      "group": 1
+      "group": 1,
+      "site": "https://www.uni-wuerzburg.de/en/universitaet/",
+      "address": " Sanderring 2, 97070 Würzburg Germany"
     },
     {
       "id": "UNIVERSITY OF DUISBURG ESSEN",
-      "group": 1
+      "group": 1,
+      "site": "https://www.uni-due.de/en/",
+      "address": "Forsthausweg 2, 47057 Duisburg Germany"
     },
-    {
-      "id": "UNIVERSITY OF DUISBURG ESSEN",
-      "group": 1
-    },
+  
     {
       "id": "UNIVERSITY OF ERLANGEN NUREMBERG",
-      "group": 1
+      "group": 1,
+      "site": "https://www.fau.eu/",
+      "address": "Schloßplatz 4, 91054 Erlangen Germany"
     },
     {
       "id": "ULM UNIVERSITY",
-      "group": 1
+      "group": 1,
+      "site": "https://www.uni-ulm.de/en/",
+      "address": "Helmholtzstraße 16, 89081 Ulm Germany"
     },
     {
       "id": "UNIVERSITY OF BONN",
-      "group": 1
+      "group": 1,
+      "site": "https://www.uni-bonn.de/en",
+      "address": "Regina-Pacis-Weg 3, 53113 Bonn Germany"
     },
     {
       "id": "FRIEDRICH SCHILLER UNIVERSITY OF JENA",
-      "group": 1
+      "group": 1,
+      "site": "https://www.uni-jena.de/en",
+      "address": " Fürstengraben 1, 07743 Jena Germany"
     },
     {
       "id": "KAROLINSKA INSTITUTET",
-      "group": 0
+      "group": 0,
+      "site": "https://ki.se/en",
+      "address": "Solnavägen 1, 171 77 Solna, Sweden"
     },
     {
       "id": "GOETHE UNIVERSITY FRANKFURT",
-      "group": 1
+      "group": 1,
+      "site": "https://www.goethe-university-frankfurt.de/en?legacy_request=1",
+      "address": "Frankfurt, Germany"
     },
     {
       "id": "UNIVERSITE DE PARIS",
       "group": 0
+    "site": "https://u-paris.fr/en/498-2/",
+      "address": "Paris, France"
     },
     {
       "id": "UNIVERSITY COLLEGE LONDON",
-      "group": 0
+      "group": 0,
+      "site": "https://www.ucl.ac.uk/",
+      "address": " Gower St, Bloomsbury, London WC1E 6BT, United Kingdom"
     },
     {
       "id": "EBERHARD KARLS UNIVERSITY HOSPITAL",
-      "group": 1
+      "group": 1,
+      "site": "https://www.medizin.uni-tuebingen.de/de/en",
+      "address": "Calwerstraße 3a 72076 Tübingen, Germany"
     },
     {
       "id": "SCHLESWIG HOLSTEIN UNIVERSITY HOSPITAL",
-      "group": 1
+      "group": 1,
+      "site": "https://www.uksh.de/en/",
+      "address": "Germany"
     },
     {
       "id": "HEINRICH HEINE UNIVERSITY DUSSELDORF",
-      "group": 1
+      "group": 1,
+      "site": "https://www.uni-duesseldorf.de/home/en/home.html",
+      "address": "Universitätsstraße 1, 40225 Düsseldorf Germany"
     },
     {
       "id": "MEDICAL UNIVERSITY OF VIENNA",
-      "group": 0
+      "group": 0,
+       "site": "http://www.meduniwien.ac.at/",
+      "address": "SPITALGASSE 23, 1090 VIENNA, AUSTRIA"
     },
     {
       "id": "RUHR UNIVERSITY BOCHUM",
-      "group": 1
+      "group": 1,
+       "site": "https://www.ruhr-uni-bochum.de/en",
+      "address": " Universitätsstraße 150, 44801 Bochum Germany"
     },
     {
       "id": "UNIVERSITY OF TORONTO",
-      "group": 0
+      "group": 0,
+      "site": "http://www.utoronto.ca/",
+      "address": "27 KING'S COLLEGE CIRCLE TORONTO, ONTARIO M5S 1A1 ONTARIO, CANADA"
     },
     {
       "id": "UNIVERSITY OF COPENHAGEN",
-      "group": 0
+      "group": 0,
+      "site": "https://www.ku.dk/english/",
+      "address": "Nørregade 10, 1165 København, Denmark"
+      
     },
     {
       "id": "UNIVERSITY OF ZURICH",
-      "group": 0
+      "group": 0,
+      "site": "https://www.uzh.ch/en.html",
+      "address": "Rämistrasse 71, 8006 Zürich, Switzerland"
     },
     {
       "id": "UNIVERSITY OF GOTTINGEN",
-      "group": 1
+      "group": 1,
+      "site": "https://www.uni-goettingen.de/en/1.html",
+      "address": "Wilhelmsplatz 1, 37073 Göttingen Germany"
     }
   ],
   "links": [
