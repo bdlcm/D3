@@ -83,6 +83,13 @@
             "source": 0, 
             "target": 1948, 
             "value": 1
+        },
+        , 
+        {
+            "has_Target": "Warfarin interacts with SLCO2B1", 
+            "source": 0, 
+            "target": 1950, 
+            "value": 1
         }
      
    
