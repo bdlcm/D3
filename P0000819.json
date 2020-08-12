@@ -219,6 +219,26 @@
             "type": "interactions", 
             "uniprot_id": "O15245", 
             "uniprot_name": "S22A1_HUMAN"
+        },
+           {
+            "activity_reg": "", 
+            "db_id": "dtiid_3290", 
+            "id": 1949, 
+            "img": "./images/orangeCircle.png", 
+            "label": "NR1I2", 
+            "type": "interactions", 
+            "uniprot_id": "O75469", 
+            "uniprot_name": "NR1I2_HUMAN"
+        }, 
+        {
+            "activity_reg": "", 
+            "db_id": "dtiid_2932995", 
+            "id": 1950, 
+            "img": "./images/orangeCircle.png", 
+            "label": "SLCO2B1", 
+            "type": "interactions", 
+            "uniprot_id": "O94956", 
+            "uniprot_name": "SO2B1_HUMAN"
         }
      
     
