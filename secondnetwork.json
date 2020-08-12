@@ -1,0 +1,266 @@
+{
+    "links": [
+        {
+            "has_Indication": "Warfarin: Metabolic disorders", 
+            "source": 0, 
+            "target": 2042, 
+            "value": 1
+        }, 
+        {
+            "has_Indication": "Warfarin: Ischaemic heart diseases", 
+            "source": 0, 
+            "target": 2043, 
+            "value": 1
+        }, 
+        {
+            "has_Indication": "Warfarin: Other forms of heart disease", 
+            "source": 0, 
+            "target": 2044, 
+            "value": 1
+        }, 
+        {
+            "has_Indication": "Warfarin: Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified", 
+            "source": 0, 
+            "target": 2045, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "Warfarin: Abdominal cramps", 
+            "source": 0, 
+            "target": 1966, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "Warfarin: Abdominal pain", 
+            "source": 0, 
+            "target": 1967, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "Warfarin: Alopecia", 
+            "source": 0, 
+            "target": 1968, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "Warfarin: Anaphylactic shock", 
+            "source": 0, 
+            "target": 1969, 
+            "value": 1
+        }, 
+        {
+            "has_DDI": "Warfarin and Peginterferon alfa-2b", 
+            "source": 0, 
+            "target": 1, 
+            "value": 1
+        }, 
+        {
+            "has_DDI": "Warfarin and Dabrafenib", 
+            "source": 0, 
+            "target": 2, 
+            "value": 1
+        }, 
+        {
+            "has_DDI": "Warfarin and Luliconazole", 
+            "source": 0, 
+            "target": 3, 
+            "value": 1
+        }, 
+        {
+            "has_DDI": "Warfarin and Metreleptin", 
+            "source": 0, 
+            "target": 4, 
+            "value": 1
+        }, 
+        {
+            "has_Target": "Warfarin interacts with KDM4E", 
+            "source": 0, 
+            "target": 1947, 
+            "value": 1
+        }, 
+        {
+            "has_Target": "Warfarin interacts with SLC22A1", 
+            "source": 0, 
+            "target": 1948, 
+            "value": 1
+        }, 
+        {
+            "has_Target": "P0000819 interacts with NR1I2", 
+            "source": 6, 
+            "target": 1949, 
+            "value": 1
+        }, 
+        {
+            "has_Target": "Warfarin interacts with NR1I2", 
+            "source": 0, 
+            "target": 1949, 
+            "value": 1
+        }, 
+        {
+            "has_Target": "P0000819 interacts with SLCO2B1", 
+            "source": 6, 
+            "target": 1950, 
+            "value": 1
+        }, 
+        {
+            "has_Target": "Warfarin interacts with SLCO2B1", 
+            "source": 0, 
+            "target": 1950, 
+            "value": 1
+        }
+    ], 
+    "nodes": [
+        {
+            "db_id": "diid_667", 
+            "id": 0, 
+            "img": "", 
+            "label": "Warfarin", 
+            "pid": "P0000667", 
+            "totalNbDDI": 1946, 
+            "totalNbDrugTarget": 19, 
+            "totalNbIndications": 4, 
+            "totalNbSiteEffects": 76, 
+            "type": "inMol"
+        }, 
+        {
+            "code": "E70-E90", 
+            "db_id": "icid_450214", 
+            "id": 2042, 
+            "img": "./images/redCircle.png", 
+            "label": "Metabolic disorders", 
+            "type": "indication"
+        }, 
+        {
+            "code": "I20-I25", 
+            "db_id": "icid_450231", 
+            "id": 2043, 
+            "img": "./images/redCircle.png", 
+            "label": "Ischaemic heart diseases", 
+            "type": "indication"
+        }, 
+        {
+            "code": "I30-I52", 
+            "db_id": "icid_450224", 
+            "id": 2044, 
+            "img": "./images/redCircle.png", 
+            "label": "Other forms of heart disease", 
+            "type": "indication"
+        }, 
+        {
+            "code": "I80-I89", 
+            "db_id": "icid_450199", 
+            "id": 2045, 
+            "img": "./images/redCircle.png", 
+            "label": "Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified", 
+            "type": "indication"
+        }, 
+        {
+            "db_id": "seid_94517", 
+            "id": 1966, 
+            "img": "./images/blueCircle.png", 
+            "label": "Abdominal cramps", 
+            "occurence": "no frequency information", 
+            "type": "sideEffect"
+        }, 
+        {
+            "db_id": "seid_94518", 
+            "id": 1967, 
+            "img": "./images/blueCircle.png", 
+            "label": "Abdominal pain", 
+            "occurence": "no frequency information", 
+            "type": "sideEffect"
+        }, 
+        {
+            "db_id": "seid_94519", 
+            "id": 1968, 
+            "img": "./images/blueCircle.png", 
+            "label": "Alopecia", 
+            "occurence": "no frequency information", 
+            "type": "sideEffect"
+        }, 
+        {
+            "db_id": "seid_94520", 
+            "id": 1969, 
+            "img": "./images/blueCircle.png", 
+            "label": "Anaphylactic shock", 
+            "occurence": "no frequency information", 
+            "type": "sideEffect"
+        }, 
+        {
+            "db_id": "ddiid_579239", 
+            "id": 1, 
+            "img": "./images/greenCircle.png", 
+            "interaction": "The serum concentration of Warfarin can be increased when it is combined with Peginterferon alfa-2b.", 
+            "label": "Peginterferon alfa-2b", 
+            "pid": "P0000021", 
+            "type": "DDI"
+        }, 
+        {
+            "db_id": "ddiid_579240", 
+            "id": 2, 
+            "img": "./images/greenCircle.png", 
+            "interaction": "The serum concentration of Warfarin can be decreased when it is combined with Dabrafenib.", 
+            "label": "Dabrafenib", 
+            "pid": "P0007851", 
+            "type": "DDI"
+        }, 
+        {
+            "db_id": "ddiid_579241", 
+            "id": 3, 
+            "img": "./images/greenCircle.png", 
+            "interaction": "The serum concentration of Warfarin can be increased when it is combined with Luliconazole.", 
+            "label": "Luliconazole", 
+            "pid": "P0007867", 
+            "type": "DDI"
+        }, 
+        {
+            "db_id": "ddiid_579242", 
+            "id": 4, 
+            "img": "./images/greenCircle.png", 
+            "interaction": "The metabolism of Warfarin can be increased when combined with Metreleptin.", 
+            "label": "Metreleptin", 
+            "pid": "P0007973", 
+            "type": "DDI"
+        }, 
+        {
+            "activity_reg": "", 
+            "db_id": "dtiid_1396462", 
+            "id": 1947, 
+            "img": "./images/orangeCircle.png", 
+            "label": "KDM4E", 
+            "type": "interactions", 
+            "uniprot_id": "B2RXH2", 
+            "uniprot_name": "KDM4E_HUMAN"
+        }, 
+        {
+            "activity_reg": "", 
+            "db_id": "dtiid_1062673", 
+            "id": 1948, 
+            "img": "./images/orangeCircle.png", 
+            "label": "SLC22A1", 
+            "type": "interactions", 
+            "uniprot_id": "O15245", 
+            "uniprot_name": "S22A1_HUMAN"
+        }, 
+        {
+            "activity_reg": "", 
+            "db_id": "dtiid_3290", 
+            "id": 1949, 
+            "img": "./images/orangeCircle.png", 
+            "label": "NR1I2", 
+            "type": "interactions", 
+            "uniprot_id": "O75469", 
+            "uniprot_name": "NR1I2_HUMAN"
+        }, 
+        {
+            "activity_reg": "", 
+            "db_id": "dtiid_2932995", 
+            "id": 1950, 
+            "img": "./images/orangeCircle.png", 
+            "label": "SLCO2B1", 
+            "type": "interactions", 
+            "uniprot_id": "O94956", 
+            "uniprot_name": "SO2B1_HUMAN"
+        }
+    ]
+}
