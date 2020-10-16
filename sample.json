@@ -323,9 +323,92 @@
             "source": 87, 
             "target": 92, 
             "value": 1
+        },
+        {
+            "has_Indication": "P0007973: Metabolic disorders", 
+            "source": "89", 
+            "target": 98, 
+            "value": 1
+        }, 
+        {
+            "has_Indication": "P0000667: Metabolic disorders", 
+            "source": 88, 
+            "target": 98, 
+            "value": 1
+        }, 
+        {
+            "has_Indication": "P0000667: Ischaemic heart diseases", 
+            "source": "88", 
+            "target": 99, 
+            "value": 1
+        }, 
+        {
+            "has_Indication": "P0000667: Ischaemic heart diseases", 
+            "source": 88, 
+            "target": 99, 
+            "value": 1
+        }, 
+        {
+            "has_Indication": "P0000667: Other forms of heart disease", 
+            "source": "88", 
+            "target": 100, 
+            "value": 1
+        }, 
+        {
+            "has_Indication": "P0000667: Other forms of heart disease", 
+            "source": 88, 
+            "target": 100, 
+            "value": 1
+        }, 
+        {
+            "has_Indication": "P0000845: Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified", 
+            "source": "83", 
+            "target": 101, 
+            "value": 1
+        }, 
+        {
+            "has_Indication": "P0000667: Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified", 
+            "source": 88, 
+            "target": 101, 
+            "value": 1
         }
     ], 
     "nodes": [
+
+        {
+            "code": "E70-E90", 
+            "db_id": "icid_457750", 
+            "id": 98, 
+            "img": "./images/redCircle.png", 
+            "label": "Metabolic disorders", 
+            "type": "indication"
+        }, 
+        {
+            "code": "I20-I25", 
+            "db_id": "icid_457767", 
+            "id": 99, 
+            "img": "./images/redCircle.png", 
+            "label": "Ischaemic heart diseases", 
+            "type": "indication"
+        }, 
+        {
+            "code": "I30-I52", 
+            "db_id": "icid_457760", 
+            "id": 100, 
+            "img": "./images/redCircle.png", 
+            "label": "Other forms of heart disease", 
+            "type": "indication"
+        }, 
+        {
+            "code": "I80-I89", 
+            "db_id": "icid_457735", 
+            "id": 101, 
+            "img": "./images/redCircle.png", 
+            "label": "Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified", 
+            "type": "indication"
+        }
+
+        ,
         {
             "code": "G20-G26", 
             "db_id": "icid_412232", 
@@ -604,3 +687,4 @@
         }
     ]
 }
+
