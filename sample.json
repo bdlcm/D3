@@ -1,338 +1,606 @@
- 
- {"links": [
-      
-
+{
+    "links": [
         {
-            "has_DDI": "Warfarin and Metreleptin", 
+            "has_DrugIndication": "G20-G26: Tetrabenazine", 
             "source": 0, 
             "target": 1, 
             "value": 1
         }, 
         {
-            "has_DDI": "Warfarin and Safinamide", 
-            "source": 0, 
-            "target": 10, 
-            "value": 1
-        },
-
-       {
-            "has_DDI": "Warfarin and Ethyl biscoumacetate", 
-            "source": 0, 
-            "target": 16, 
-            "value": 1
-        },
-        {
-            "has_DDI": "Warfarin and Prednisolone", 
-            "source": 0, 
-            "target": 12, 
-            "value": 1
-        },
-        {
-            "has_DDI": "Warfarin and Ceftriaxon", 
-            "source": 0, 
-            "target": 15, 
-            "value": 1
-        },
-
-        {
-            "has_DDI": "Warfarin and Capsaicin", 
-            "source": 0, 
-            "target": 11, 
-            "value": 1
-        },
-
-
-
-        {
-            "has_DrugIndication": "G20-G26: GRIA2", 
-            "source": 2, 
-            "target": 5, 
-            "value": 1
-        }, 
-
-        {
-            "has_DrugIndication": "GRIA2 to Talampanel", 
-            "source": 2, 
-            "target": 9, 
-            "value": 1
-        }, 
-        {
-            "has_DrugIndication": "G20-G26: Tetrabenazine", 
-            "source": 2, 
-            "target": 7, 
-            "value": 1
-        }, 
-        {
             "has_DrugIndication": "G20-G26: Pardoprunox", 
-            "source": 2, 
-            "target": 8, 
+            "source": 0, 
+            "target": 2, 
             "value": 1
         }, 
         {
             "has_DrugIndication": "G20-G26: Talampanel", 
-            "source": 2, 
-            "target": 9, 
+            "source": 0, 
+            "target": 3, 
             "value": 1
         }, 
-
-            {
-                "has_DrugIndication": "G20-G26: Safinamide", 
-                "source": 2, 
-                "target": 10, 
-                "value": 1
-            }, 
-
-
-
-            {
-                "has_TargetIndication": "G20-G26: COMT", 
-                "source": 2, 
-                "target": 3, 
-                "value": 1
-            }, 
-
-            {
-                "has_TargetIndication": "G20-G26: ACACB", 
-                "source": 2, 
-                "target": 4, 
-                "value": 1
-            }, 
-
-            {
-                "has_TargetIndication": "G20-G26: GLUL", 
-                "source": 2, 
-                "target": 6, 
-                "value": 1
-            }, 
-
-            {
-                "has_TargetIndication": "Ethyl biscoumacetate", 
-                "source": 6, 
-                "target": 16, 
-                "value": 1
-            }, 
-            {
-                "has_TargetIndication": "Ethyl biscoumacetate to Allopurinol", 
-                "source": 6, 
-                "target": 13, 
-                "value": 1
-            },
-            {
-                "has_TargetIndication": "Ethyl biscoumacetate to Azathioprine", 
-                "source": 6, 
-                "target": 14, 
-                "value": 1
-            },
-
-            {
-                "has_TargetIndication": "Allopurinol to Ceftriaxon", 
-                "source": 13, 
-                "target": 15, 
-                "value": 1
-            },
-
-            {
-                "has_TargetIndication": "Ceftriaxon to Azathioprine", 
-                "source": 15, 
-                "target": 14, 
-                "value": 1
-            },
-
-
-
-            {
-                "has_TargetIndication": "Azathioprine to Prednisolone", 
-                "source": 14, 
-                "target": 12, 
-                "value": 1
-            },
-
-            {
-                "has_TargetIndication": "Prednisolone", 
-                "source": 6, 
-                "target": 12, 
-                "value": 1
-            }, 
-            {
-                "has_TargetIndication": "Capsaicin", 
-                "source": 6, 
-                "target": 11, 
-                "value": 1
-            },
-
-            {
-                "has_TargetIndication": "Ceftriaxon", 
-                "source": 6, 
-                "target": 15, 
-                "value": 1
-            }
-
+        {
+            "has_DrugIndication": "G20-G26: Arbaclofen Placarbil", 
+            "source": 0, 
+            "target": 4, 
+            "value": 1
+        }, 
+        {
+            "has_DrugIndication": "G20-G26: Safinamide", 
+            "source": 0, 
+            "target": 5, 
+            "value": 1
+        }, 
+        {
+            "has_TargetIndication": "G20-G26: DDC", 
+            "source": 0, 
+            "target": 58, 
+            "value": 1
+        }, 
+        {
+            "has_TargetIndication": "G20-G26: COMT", 
+            "source": 0, 
+            "target": 59, 
+            "value": 1
+        }, 
+        {
+            "has_TargetIndication": "G20-G26: TH", 
+            "source": 0, 
+            "target": 60, 
+            "value": 1
+        }, 
+        {
+            "has_TargetIndication": "G20-G26: ACACB", 
+            "source": 0, 
+            "target": 61, 
+            "value": 1
+        }, 
+        {
+            "has_TargetIndication": "G20-G26: ACHE", 
+            "source": 0, 
+            "target": 62, 
+            "value": 1
+        },
+	{
+            "has_TargetIndication": "G20-G26: CHRNA7", 
+            "source": 0, 
+            "target": 68, 
+            "value": 1
+        }, 
+        {
+            "has_TargetIndication": "G20-G26: GLUL", 
+            "source": 0, 
+            "target": 69, 
+            "value": 1
+        }, 
+        {
+            "has_TargetIndication": "G20-G26: PPARD", 
+            "source": 0, 
+            "target": 70, 
+            "value": 1
+        }, 
+        {
+            "has_TargetIndication": "G20-G26: GRIN2B", 
+            "source": 0, 
+            "target": 71, 
+            "value": 1
+        }, 
+        {
+            "has_TargetIndication": "P0004689: GRIA2", 
+            "source": 3, 
+            "target": 72, 
+            "value": 1
+        }, 
+        {
+            "has_TargetIndication": "G20-G26: GRIA2", 
+            "source": 0, 
+            "target": 72, 
+            "value": 1
+        },
+	{
+            "has_SideEffect": "P15104: Pegvisomant", 
+            "source": 69, 
+            "target": 73, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P15104: L-Glutamine", 
+            "source": 69, 
+            "target": 74, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P15104: Methionine", 
+            "source": 69, 
+            "target": 75, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P15104: Glutamic Acid", 
+            "source": 69, 
+            "target": 76, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P15104: Picrotoxin", 
+            "source": 69, 
+            "target": 77, 
+            "value": 1
+        },
+	{
+            "has_SideEffect": "P15104: Prednisolone", 
+            "source": 69, 
+            "target": 83, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P15104: Diazoxide", 
+            "source": 69, 
+            "target": 84, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P15104: Ceftriaxone", 
+            "source": 69, 
+            "target": 85, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P15104: Capsaicin", 
+            "source": 69, 
+            "target": 86, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P15104: Ethyl biscoumacetate", 
+            "source": 69, 
+            "target": 87, 
+            "value": 1
+        },
+	{
+            "has_ddi": "P0000077: Warfarin", 
+            "source": 73, 
+            "target": 88, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0000845: Warfarin", 
+            "source": 83, 
+            "target": 88, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0005812: Warfarin", 
+            "source": 86, 
+            "target": 88, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0001195: Warfarin", 
+            "source": 85, 
+            "target": 88, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0001102: Warfarin", 
+            "source": 84, 
+            "target": 88, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0007752: Warfarin", 
+            "source": 87, 
+            "target": 88, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0005709: Warfarin", 
+            "source": 5, 
+            "target": 88, 
+            "value": 1
+        }, 
+        {
+            "has_DDI": "P0007752 and Warfarin", 
+            "source": 87, 
+            "target": 88, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0007752: Metreleptin", 
+            "source": 87, 
+            "target": 89, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0000845: Metreleptin", 
+            "source": 83, 
+            "target": 89, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0005709: Metreleptin", 
+            "source": 5, 
+            "target": 89, 
+            "value": 1
+        }, 
+        {
+            "has_DDI": "P0007752 and Metreleptin", 
+            "source": 87, 
+            "target": 89, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0007752: Gemcitabine", 
+            "source": 87, 
+            "target": 90, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0000845: Gemcitabine", 
+            "source": 83, 
+            "target": 90, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0001102: Gemcitabine", 
+            "source": 84, 
+            "target": 90, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0001195: Gemcitabine", 
+            "source": 85, 
+            "target": 90, 
+            "value": 1
+        }, 
+        {
+            "has_DDI": "P0007752 and Gemcitabine", 
+            "source": 87, 
+            "target": 90, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0007752: Allopurinol", 
+            "source": 87, 
+            "target": 91, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0001195: Allopurinol", 
+            "source": 85, 
+            "target": 91, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0001102: Allopurinol", 
+            "source": 84, 
+            "target": 91, 
+            "value": 1
+        }, 
+        {
+            "has_DDI": "P0007752 and Allopurinol", 
+            "source": 87, 
+            "target": 91, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0007752: Azathioprine", 
+            "source": 87, 
+            "target": 92, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0005812: Azathioprine", 
+            "source": 86, 
+            "target": 92, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0005709: Azathioprine", 
+            "source": 5, 
+            "target": 92, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0000845: Azathioprine", 
+            "source": 83, 
+            "target": 92, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0001195: Azathioprine", 
+            "source": 85, 
+            "target": 92, 
+            "value": 1
+        }, 
+        {
+            "has_ddi": "P0001102: Azathioprine", 
+            "source": 84, 
+            "target": 92, 
+            "value": 1
+        }, 
+        {
+            "has_DDI": "P0007752 and Azathioprine", 
+            "source": 87, 
+            "target": 92, 
+            "value": 1
+        }
     ], 
     "nodes": [
-        {
-            "db_id": "diid_667", 
-            "id": 0, 
-            "img": "", 
-            "label": "Warfarin", 
-            "pid": "P0000667", 
-            "totalNbDDI": 99, 
-            "totalNbDrugTarget": 18, 
-            "totalNbIndications": 4, 
-            "totalNbSiteEffects": 76, 
-            "type": "inMol"
-        }, 
-
-        {
-            "db_id": "ddiid_579242", 
-            "id": 1, 
-            "img": "./images/greenCircle.png", 
-            "interaction": "The metabolism of Warfarin can be increased when combined with Metreleptin.", 
-            "label": "Metreleptin", 
-            "pid": "P0007973", 
-            "type": "DDI"
-        }, 
-
         {
             "code": "G20-G26", 
             "db_id": "icid_412232", 
             "desc": "Extrapyramidal and movement disorders", 
-            "id": 2, 
+            "id": 0, 
             "img": "", 
             "label": "G20-G26", 
             "totalNbDrugInteractions": 57, 
             "totalNbTargetInteractions": 49, 
             "type": "inInd"
-        },
-
-        {
-            "activity_reg": "", 
-            "db_id": "target_P21964", 
-            "id": 3, 
-            "img": "./images/orangeCircle.png", 
-            "label": "COMT", 
-            "type": "interactions", 
-            "uniprot_id": "P21964", 
-            "uniprot_name": "COMT_HUMAN"
         }, 
-
-        {
-            "activity_reg": "ACTIVITY REGULATION: Activity is increased by oligomerization. Activated by citrate. Citrate and MID1IP1 promote oligomerization. Inhibited by malonyl-CoA. {ECO:0000269|PubMed:16854592, ECO:0000269|PubMed:20952656}.", 
-            "db_id": "target_O00763", 
-            "id": 4, 
-            "img": "./images/orangeCircle.png", 
-            "label": "ACACB", 
-            "type": "interactions", 
-            "uniprot_id": "O00763", 
-            "uniprot_name": "ACACB_HUMAN"
-        },
-
-        
-        {
-            "activity_reg": "nothing", 
-            "db_id": "target_O00763", 
-            "id":5, 
-            "img": "./images/orangeCircle.png", 
-            "label": "GRIA2", 
-            "type": "interactions", 
-            "uniprot_id": "O00763", 
-            "uniprot_name": "ACACB_HUMAN"
-        },
-
-        {
-            "activity_reg": "nothing", 
-            "db_id": "target_O00763", 
-            "id": 6, 
-            "img": "./images/orangeCircle.png", 
-            "label": "GLUL", 
-            "type": "interactions", 
-            "uniprot_id": "O00763", 
-            "uniprot_name": "ACACB_HUMAN"
-        },
-
-
         {
             "db_id": "diid_4564", 
-            "id": 7, 
+            "id": 1, 
             "img": "./images/greenCircle.png", 
             "label": "Tetrabenazine", 
             "pid": "P0004564", 
             "type": "DDI"
-        },
-
+        }, 
         {
             "db_id": "diid_9751", 
-            "id": 8, 
+            "id": 2, 
             "img": "./images/greenCircle.png", 
             "label": "Pardoprunox", 
             "pid": "P0009751", 
             "type": "DDI"
-        },
+        }, 
         {
             "db_id": "diid_4689", 
-            "id": 9, 
+            "id": 3, 
             "img": "./images/greenCircle.png", 
             "label": "Talampanel", 
             "pid": "P0004689", 
             "type": "DDI"
         }, 
-
+        {
+            "db_id": "diid_7831", 
+            "id": 4, 
+            "img": "./images/greenCircle.png", 
+            "label": "Arbaclofen Placarbil", 
+            "pid": "P0007831", 
+            "type": "DDI"
+        }, 
         {
             "db_id": "diid_5709", 
-            "id": 10, 
+            "id": 5, 
             "img": "./images/greenCircle.png", 
             "label": "Safinamide", 
             "pid": "P0005709", 
             "type": "DDI"
         }, 
         {
-            "db_id": "diid_5709", 
-            "id": 11, 
+            "activity_reg": "", 
+            "db_id": "target_P20711", 
+            "id": 58, 
+            "img": "./images/orangeCircle.png", 
+            "label": "DDC", 
+            "type": "interactions", 
+            "uniprot_id": "P20711", 
+            "uniprot_name": "DDC_HUMAN"
+        }, 
+        {
+            "activity_reg": "", 
+            "db_id": "target_P21964", 
+            "id": 59, 
+            "img": "./images/orangeCircle.png", 
+            "label": "COMT", 
+            "type": "interactions", 
+            "uniprot_id": "P21964", 
+            "uniprot_name": "COMT_HUMAN"
+        }, 
+        {
+            "activity_reg": "ACTIVITY REGULATION: Phosphorylation leads to an increase in the catalytic activity.", 
+            "db_id": "target_P07101", 
+            "id": 60, 
+            "img": "./images/orangeCircle.png", 
+            "label": "TH", 
+            "type": "interactions", 
+            "uniprot_id": "P07101", 
+            "uniprot_name": "TY3H_HUMAN"
+        }, 
+        {
+            "activity_reg": "ACTIVITY REGULATION: Activity is increased by oligomerization. Activated by citrate. Citrate and MID1IP1 promote oligomerization. Inhibited by malonyl-CoA. {ECO:0000269|PubMed:16854592, ECO:0000269|PubMed:20952656}.", 
+            "db_id": "target_O00763", 
+            "id": 61, 
+            "img": "./images/orangeCircle.png", 
+            "label": "ACACB", 
+            "type": "interactions", 
+            "uniprot_id": "O00763", 
+            "uniprot_name": "ACACB_HUMAN"
+        }, 
+        {
+            "activity_reg": "", 
+            "db_id": "target_P22303", 
+            "id": 62, 
+            "img": "./images/orangeCircle.png", 
+            "label": "ACHE", 
+            "type": "interactions", 
+            "uniprot_id": "P22303", 
+            "uniprot_name": "ACES_HUMAN"
+        },
+	{
+            "activity_reg": "", 
+            "db_id": "target_P36544", 
+            "id": 68, 
+            "img": "./images/orangeCircle.png", 
+            "label": "CHRNA7", 
+            "type": "interactions", 
+            "uniprot_id": "P36544", 
+            "uniprot_name": "ACHA7_HUMAN"
+        }, 
+        {
+            "activity_reg": "ACTIVITY REGULATION: Glutamine synthetase activity is inhibited by methionine sulfoximine (MSO). {ECO:0000269|PubMed:30158707}.", 
+            "db_id": "target_P15104", 
+            "id": 69, 
+            "img": "./images/orangeCircle.png", 
+            "label": "GLUL", 
+            "type": "interactions", 
+            "uniprot_id": "P15104", 
+            "uniprot_name": "GLNA_HUMAN"
+        }, 
+        {
+            "activity_reg": "", 
+            "db_id": "target_Q03181", 
+            "id": 70, 
+            "img": "./images/orangeCircle.png", 
+            "label": "PPARD", 
+            "type": "interactions", 
+            "uniprot_id": "Q03181", 
+            "uniprot_name": "PPARD_HUMAN"
+        }, 
+        {
+            "activity_reg": "", 
+            "db_id": "target_Q13224", 
+            "id": 71, 
+            "img": "./images/orangeCircle.png", 
+            "label": "GRIN2B", 
+            "type": "interactions", 
+            "uniprot_id": "Q13224", 
+            "uniprot_name": "NMDE2_HUMAN"
+        }, 
+        {
+            "activity_reg": "", 
+            "db_id": "target_P42262", 
+            "id": 72, 
+            "img": "./images/orangeCircle.png", 
+            "label": "GRIA2", 
+            "type": "interactions", 
+            "uniprot_id": "P42262", 
+            "uniprot_name": "GRIA2_HUMAN"
+        },
+	{
+            "db_id": "diid_77", 
+            "id": 73, 
             "img": "./images/greenCircle.png", 
-            "label": "Capsaicin", 
-            "pid": "P0005709", 
+            "label": "Pegvisomant", 
+            "pid": "P0000077", 
             "type": "DDI"
         }, 
         {
-            "db_id": "diid_5709", 
-            "id": 12, 
+            "db_id": "diid_121", 
+            "id": 74, 
+            "img": "./images/greenCircle.png", 
+            "label": "L-Glutamine", 
+            "pid": "P0000121", 
+            "type": "DDI"
+        }, 
+        {
+            "db_id": "diid_125", 
+            "id": 75, 
+            "img": "./images/greenCircle.png", 
+            "label": "Methionine", 
+            "pid": "P0000125", 
+            "type": "DDI"
+        }, 
+        {
+            "db_id": "diid_133", 
+            "id": 76, 
+            "img": "./images/greenCircle.png", 
+            "label": "Glutamic Acid", 
+            "pid": "P0000133", 
+            "type": "DDI"
+        }, 
+        {
+            "db_id": "diid_454", 
+            "id": 77, 
+            "img": "./images/greenCircle.png", 
+            "label": "Picrotoxin", 
+            "pid": "P0000454", 
+            "type": "DDI"
+        },
+	{
+            "db_id": "diid_845", 
+            "id": 83, 
             "img": "./images/greenCircle.png", 
             "label": "Prednisolone", 
-            "pid": "P0005709", 
+            "pid": "P0000845", 
             "type": "DDI"
         }, 
         {
-            "db_id": "diid_5709", 
-            "id": 13, 
+            "db_id": "diid_1102", 
+            "id": 84, 
             "img": "./images/greenCircle.png", 
-            "label": "Allopurinol", 
-            "pid": "P0005709", 
+            "label": "Diazoxide", 
+            "pid": "P0001102", 
             "type": "DDI"
         }, 
-
         {
-            "db_id": "diid_5709", 
-            "id": 14, 
+            "db_id": "diid_1195", 
+            "id": 85, 
             "img": "./images/greenCircle.png", 
-            "label": "Azathioprine", 
-            "pid": "P0005709", 
+            "label": "Ceftriaxone", 
+            "pid": "P0001195", 
             "type": "DDI"
         }, 
         {
-            "db_id": "diid_5709", 
-            "id": 15, 
+            "db_id": "diid_5812", 
+            "id": 86, 
             "img": "./images/greenCircle.png", 
-            "label": "Ceftriaxon ", 
-            "pid": "P0005709", 
+            "label": "Capsaicin", 
+            "pid": "P0005812", 
             "type": "DDI"
         }, 
         {
-            "db_id": "diid_5709", 
-            "id": 16, 
+            "db_id": "diid_7752", 
+            "id": 87, 
             "img": "./images/greenCircle.png", 
             "label": "Ethyl biscoumacetate", 
-            "pid": "P0005709", 
+            "pid": "P0007752", 
+            "type": "DDI"
+        },
+	{
+            "db_id": "ddiid_1751049", 
+            "id": 88, 
+            "img": "./images/greenCircle.png", 
+            "interaction": "The metabolism of Ethyl biscoumacetate can be decreased when combined with Warfarin.", 
+            "label": "Warfarin", 
+            "pid": "P0000667", 
+            "type": "DDI"
+        }, 
+        {
+            "db_id": "ddiid_1749716", 
+            "id": 89, 
+            "img": "./images/greenCircle.png", 
+            "interaction": "The metabolism of Ethyl biscoumacetate can be increased when combined with Metreleptin.", 
+            "label": "Metreleptin", 
+            "pid": "P0007973", 
+            "type": "DDI"
+        }, 
+        {
+            "db_id": "ddiid_1749717", 
+            "id": 90, 
+            "img": "./images/greenCircle.png", 
+            "interaction": "The therapeutic efficacy of Ethyl biscoumacetate can be increased when used in combination with Gemcitabine.", 
+            "label": "Gemcitabine", 
+            "pid": "P0000429", 
+            "type": "DDI"
+        }, 
+        {
+            "db_id": "ddiid_1749718", 
+            "id": 91, 
+            "img": "./images/greenCircle.png", 
+            "interaction": "The risk or severity of bleeding can be increased when Allopurinol is combined with Ethyl biscoumacetate.", 
+            "label": "Allopurinol", 
+            "pid": "P0000425", 
+            "type": "DDI"
+        }, 
+        {
+            "db_id": "ddiid_1749719", 
+            "id": 92, 
+            "img": "./images/greenCircle.png", 
+            "interaction": "The therapeutic efficacy of Ethyl biscoumacetate can be decreased when used in combination with Azathioprine.", 
+            "label": "Azathioprine", 
+            "pid": "P0000978", 
             "type": "DDI"
         }
     ]
 }
-
