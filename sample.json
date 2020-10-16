@@ -371,6 +371,150 @@
             "source": 88, 
             "target": 101, 
             "value": 1
+        },
+        {
+            "has_SideEffect": "P0000667: Abdominal cramps", 
+            "source": 88, 
+            "target": 93, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0000667: Abdominal cramps", 
+            "source": 88, 
+            "target": 93, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0000425: Abdominal pain", 
+            "source": 91, 
+            "target": 94, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0000667: Abdominal pain", 
+            "source": 88, 
+            "target": 94, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0000978: Abdominal pain", 
+            "source": 92, 
+            "target": 94, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0001102: Abdominal pain", 
+            "source": 84, 
+            "target": 94, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0001195: Abdominal pain", 
+            "source": 85, 
+            "target": 94, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0000667: Abdominal pain", 
+            "source": 88, 
+            "target": 94, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0000425: Alopecia", 
+            "source": 91, 
+            "target": 95, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0000429: Alopecia", 
+            "source": 90, 
+            "target": 95, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0000667: Alopecia", 
+            "source": 88, 
+            "target": 95, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0000978: Alopecia", 
+            "source": 92, 
+            "target": 95, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0000667: Alopecia", 
+            "source": 88, 
+            "target": 95, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0000425: Anaphylactic shock", 
+            "source": 91, 
+            "target": 96, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0000667: Anaphylactic shock", 
+            "source": 88, 
+            "target": 96, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0000845: Anaphylactic shock", 
+            "source": 83, 
+            "target": 96, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0001195: Anaphylactic shock", 
+            "source": 85, 
+            "target": 96, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0000667: Anaphylactic shock", 
+            "source": 88, 
+            "target": 96, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0000425: Anaemia", 
+            "source": 91, 
+            "target": 97, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0000429: Anaemia", 
+            "source": 90, 
+            "target": 97, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0000667: Anaemia", 
+            "source": 88, 
+            "target": 97, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0000978: Anaemia", 
+            "source": 92, 
+            "target": 97, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0001195: Anaemia", 
+            "source": 85, 
+            "target": 97, 
+            "value": 1
+        }, 
+        {
+            "has_SideEffect": "P0000667: Anaemia", 
+            "source": 88, 
+            "target": 97, 
+            "value": 1
         }
     ], 
     "nodes": [
@@ -684,6 +828,46 @@
             "label": "Azathioprine", 
             "pid": "P0000978", 
             "type": "DDI"
+        },
+        {
+            "db_id": "seid_94517", 
+            "id": 93, 
+            "img": "./images/blueCircle.png", 
+            "label": "Abdominal cramps", 
+            "occurence": "no frequency information", 
+            "type": "sideEffect"
+        }, 
+        {
+            "db_id": "seid_94518", 
+            "id": 94, 
+            "img": "./images/blueCircle.png", 
+            "label": "Abdominal pain", 
+            "occurence": "no frequency information", 
+            "type": "sideEffect"
+        }, 
+        {
+            "db_id": "seid_94519", 
+            "id": 95, 
+            "img": "./images/blueCircle.png", 
+            "label": "Alopecia", 
+            "occurence": "no frequency information", 
+            "type": "sideEffect"
+        }, 
+        {
+            "db_id": "seid_94520", 
+            "id": 96, 
+            "img": "./images/blueCircle.png", 
+            "label": "Anaphylactic shock", 
+            "occurence": "no frequency information", 
+            "type": "sideEffect"
+        }, 
+        {
+            "db_id": "seid_94521", 
+            "id": 97, 
+            "img": "./images/blueCircle.png", 
+            "label": "Anaemia", 
+            "occurence": "no frequency information", 
+            "type": "sideEffect"
         }
     ]
 }
